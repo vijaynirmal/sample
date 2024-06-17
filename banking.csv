@@ -1,0 +1,1921 @@
+﻿category,Description,Test Steps,Expected Results
+Account Creation,Create New Account with Valid information,"1.In the banking website or app, find the ""Open New Account"" or ""Apply for an Account"" option. This may be under the ""Accounts"" or ""Services"" section.
+2.Choose the type of account you want to open. Common options may include savings account, current account, fixed deposit, etc.
+3.Fill in their personal information, which may include:
+Full name
+Date of birth
+Gender
+Contact information (address, email, phone number)
+4.Submit identification documents, which typically include:
+Proof of identity (e.g., passport, driver's license, Aadhar card)
+Proof of address (e.g., utility bill, bank statement)
+5.Select any additional features or services you want to associate with the account. This may include a debit card, checkbook, internet banking access, etc.
+6.Specify the initial deposit amount required to open the account. It may have a minimum balance requirement.
+7.Review the information you provided for accuracy. Make sure all details are correct.
+8.Read and agree to the terms and conditions associated with the new account.
+9.Submit the application for the new account.","1.User should be able to click on ""Open New Account"" or ""Apply for an Account"" option. This may be under the ""Accounts"" or ""Services"" section.
+2.User should be able to choose the type of account you want to open. Common options may include savings account, current account, fixed deposit, etc.
+3.User should be able to fill in their personal information, which may include:
+Full name
+Date of birth
+Gender
+Contact information (address, email, phone number)
+4.User should be able to submit identification documents, which typically include:
+Proof of identity (e.g., passport, driver's license, Aadhar card)
+Proof of address (e.g., utility bill, bank statement)
+5.User should be able to select any additional features or services you want to associate with the account. This may include a debit card, checkbook, internet banking access, etc.
+6.User should be able to specify the initial deposit amount required to open the account. It may have a minimum balance requirement.
+7.User should be able to review the information you provided for accuracy. Make sure all details are correct.
+8.User should be able to read and agree to the terms and conditions associated with the new account.
+9.User should be able to submit the application for the new account."
+Account Creation,Inability to create an account with incomplete or invalid information.,"1.In the banking website or app, find the ""Open New Account"" or ""Apply for an Account"" option. This may be under the ""Accounts"" or ""Services"" section.
+2.Choose the type of account you want to open. Common options may include savings account, current account, fixed deposit, etc.
+3.Fill in their personal information, which may include:
+Full name
+Date of birth
+Gender
+Contact information (address, email, phone number)
+4.Submit identification documents, which typically include:
+Proof of identity (e.g., passport, driver's license, Aadhar card)
+Proof of address (e.g., utility bill, bank statement)
+5.Select any additional features or services you want to associate with the account. This may include a debit card, checkbook, internet banking access, etc.
+6.Specify the initial deposit amount required to open the account. It may have a minimum balance requirement.
+7.Review the information you provided for accuracy. Make sure all details are correct.
+8.Read and agree to the terms and conditions associated with the new account.
+9.Submit the application for the new account.","1.User should be able to click on ""Open New Account"" or ""Apply for an Account"" option. This may be under the ""Accounts"" or ""Services"" section.
+2.User should be able to choose the type of account you want to open. Common options may include savings account, current account, fixed deposit, etc.
+3.User should not be able to fill in invalid personal information, which may include:
+Full name
+Date of birth
+Gender
+Contact information (address, email, phone number)"
+Account Creation,Open a New Savings Account,"1. Navigate to the ""Open an Account"" or ""Apply for a Savings Account"" section. 
+2. Provide required personal information (name, contact details). 
+3. Select the account type (e.g., savings account). 
+4. Verify identity and provide necessary documentation.
+5. Review and agree to terms and conditions. 
+6. Submit the application.","A new savings account is successfully created, and the user receives confirmation of the account details and account number."
+Account Creation,Open a New Checking Account,"1. Navigate to the ""Open an Account"" or ""Apply for a Checking Account"" section. 
+2. Provide required personal information (name, contact details). 
+3. Select the account type (e.g., checking account). 
+4. Verify identity and provide necessary documentation. 
+5. Review and agree to terms and conditions. 
+6. Submit the application.","A new checking account is successfully created, and the user receives confirmation of the account details and account number."
+Account Creation,Apply for a Credit Card,"1. Navigate to the ""Apply for a Credit Card"" section. 
+2. Provide personal and financial information. 
+3. Choose the type of credit card (e.g., rewards card, cashback card). 
+4. Verify identity and provide necessary documentation. 
+5. Review and agree to the credit card terms and conditions. 
+6. Submit the credit card application.","A credit card application is successfully submitted, and the user receives a confirmation of the application status."
+Account Creation,Request a Loan Application,"1. Navigate to the ""Apply for a Loan"" or ""Request a Loan"" section.
+2. Provide personal and financial information. 
+3. Choose the loan type (e.g., personal loan, mortgage). 
+4. Verify identity and provide necessary documentation. 
+5. Review and agree to loan terms and conditions. 
+6. Submit the loan application.","A loan application is successfully submitted, and the user receives confirmation of the application status."
+Account Creation,Request a Fixed Deposit Account,"1. Navigate to the ""Open a Fixed Deposit"" section. 
+2. Provide personal information and deposit amount. 
+3. Select the fixed deposit term (e.g., 1 year, 5 years). 
+4. Verify identity and provide necessary documentation. 
+5. Review and agree to fixed deposit terms and conditions. 
+6. Submit the fixed deposit request.","A fixed deposit account is successfully created, and the user receives confirmation of the account details and deposit term."
+Account Creation,Open a Business Account,"1. Navigate to the ""Open a Business Account"" section. 
+2. Provide business information and contact details. 
+3. Select the type of business account (e.g., business checking account). 4. Verify business identity and provide necessary business documentation. 
+5. Review and agree to business account terms and conditions.
+6. Submit the business account application.","A new business account is successfully created, and the user receives confirmation of the account details and account number."
+Activate Netbanking,Activate Netbanking for an Existing Account,"1. Log in to the account. 2. Navigate to the ""Netbanking Activation"" or ""Online Banking Activation"" section. 3. Verify identity (e.g., provide account details, OTP, or security questions). 4. Create a username and password for Netbanking. 5. Confirm the activation.","Netbanking is successfully activated for the user's existing account, and the user can access online banking services."
+Activate Netbanking,Request Netbanking Activation,"1. Access the bank's website or app. 
+2. Select the ""Request Netbanking Access"" or ""Activate Online Banking"" option. 
+3. Provide personal details and account information. 
+4. Verify identity (e.g., provide OTP or security questions). 
+5. Create a username and password for Netbanking. 
+6. Confirm the activation.","Netbanking access is granted, and the user can access online banking services with the provided login credentials."
+Activate Netbanking,Reset Netbanking Password,"1. Visit the ""Forgot Password"" or ""Reset Netbanking Password"" page. 
+2. Provide the registered username and account information. 
+3. Verify identity (e.g., answer security questions or receive a verification code). 
+4. Set a new Netbanking password. 
+5. Confirm the password reset.","The Netbanking password is successfully reset, and the user can log in with the new credentials."
+Activate Netbanking,Deactivate Netbanking,"1. Log in to the Netbanking account. 
+2. Navigate to the ""Deactivate Netbanking"" or ""Close Online Banking"" section. 
+3. Confirm the deactivation by following the provided steps (e.g., enter reasons for deactivation).","Netbanking is successfully deactivated, and the user no longer has access to online banking services."
+Activate Netbanking,Unlock Netbanking Account,"1. Visit the ""Unlock Account"" or ""Unlock Netbanking"" section. 
+2. Provide the registered username and account information. 
+3. Verify identity (e.g., answer security questions or receive a verification code). 
+4. Unlock the Netbanking account.","The Netbanking account is successfully unlocked, and the user can resume using online banking services."
+Activate Netbanking,Verify user is able to activate netbanking with valid information.,"1.Visit the NetBanking registration page.
+2.Enter  customer ID and confirm  mobile number to generate an OTP.
+3.Enter the OTP.
+4.Select debit card and enter details.
+5.Set password for the accessing the account
+",User should be able to activate netbanking with valid information.
+Activate Netbanking,Verify user is unable to activate netbanking with invalid information.,"1.Visit the NetBanking registration page.
+2.Enter  customer ID and confirm  mobile number to generate an OTP.
+3.Enter the OTP.
+4.Select debit card and enter details.
+5.Set password for the accessing the account
+",User should not be able to activate netbanking with invalid information.
+User Authentication and Security,Verify whether the user is able to login with Valid Credentials,"1.Navigate to the URL of your bank's official website.
+2.Click on ""Login"" or ""Sign In"" button in bank's website,. 
+3.Enter your registered username or user ID in the provided field.
+4.Enter Password in provided field.
+5.Enter OTP sent to the register mobile number in provided field.
+6.Click the ""Login"" or ""Submit"" button to initiate the login process.
+","1.If the username and password are correct, you will successfully log in to your online banking account.
+2.User will be redirected to your account dashboard, where user  can access your account details, balances, and conduct various banking activities."
+User Authentication and Security,Verify whether the user is unable to login with invalid Credentials,"1.Navigate to the URL of your bank's official website.
+2.Click on ""Login"" or ""Sign In"" button in bank's website,. 
+3.Enter your registered username or user ID in the provided field.
+4.Enter Password in provided field.
+5.Enter OTP sent to the register mobile number in provided field.
+6.Click the ""Login"" or ""Submit"" button to initiate the login process.
+","1.If the username or password is incorrect, user will receive an error message, and user may have the option to reset your password or contact customer support for assistance."
+User Authentication and Security,Multi-Factor Authentication (MFA),1. Log in using valid credentials. 2. Receive and enter the one-time MFA code sent to the user's registered email or mobile device.,"The user successfully completes the MFA process, adding an additional layer of security to their account."
+User Authentication and Security,Session Timeout,1. Allow the session to remain idle for the configured session timeout duration.,"The user is automatically logged out after the session timeout, ensuring that their account remains secure."
+Account Management,Validate whether the user account got Lockout After Multiple Failed Attempts,"1.Navigate to the URL of your bank's official website.
+2.Click on ""Login"" or ""Sign In"" button in bank's website. 
+3.Enter your registered username or user ID in the provided field.
+4.Enter Password in provided field.
+5.Click the ""Login"" or ""Submit"" button.
+6.Repeat steps 3 , 4 and 5 multiple times.
+","1.The website locks the user's account after a defined number of failed login attempts.
+2.The user cannot log in with the correct credentials.
+3.After a predefined time period , the account is automatically unlocked."
+Account Management,Validate whether the user is able to trigger forgot password link.,"1.Navigate to the URL of your bank's official website.
+2.Click on ""Login"" or ""Sign In"" button in bank's website. 
+3.Click on the ""Forgot Password"" or ""Reset Password"" link.
+4.Enter a valid registered email address in the provided field.
+5.Click on the ""Submit"" or ""Reset"" button.","1.The website displays a success message indicating that a password reset email has been sent.
+2.The user receives a password reset email.
+3.The user can follow the link in the email to reset their password."
+Account Management,Resetting password within expiration time.,"1.Navigate to the user's email inbox where the password reset email is received.
+2.Locate the password reset email and open it.
+3.Click on the password reset link provided in the email.
+4.Record the date and time when the link was clicked.
+5.Wait for a time period equal to or shorter than the defined link expiration time (e.g., 23 hours).
+6.Return to the password reset link.
+7.Click the same password reset link again.","1.The password reset link should open a password reset page on the Banking website.
+2.The system should record the date and time of the first click on the link.
+3.The system should wait for a time period equal to or shorter than the defined link expiration time.
+4.The password reset link should still be valid, and the user should be able to reset the password without errors."
+Account Management,Resetting password after link expiration time,"1.Navigate to the user's email inbox where the password reset email is received.
+2.Locate the password reset email and open it.
+3.Click on the password reset link provided in the email.
+4.Record the date and time when the link was clicked.
+5.Wait for a time period longer than the defined link expiration time (e.g., 25 hours).
+6.Return to the password reset link.
+7.Click the same password reset link again.","1.The password reset link should open a password reset page on the Banking website.
+2.The system should record the date and time of the first click on the link.
+3. The system should wait for a time period longer than the defined link expiration time.
+4.The password reset link should not expire as expected or  the error message is not displayed when using the expired link."
+Account Management,Validate whether the user is login with Incorrect OTP,"1.Navigate to the Bankingwebsite or app.
+2.Click on the ""Login"" or ""Sign In"" link.
+3.Select the option for ""Login with OTP.""
+4.Enter a valid email or phone number associated with the user's account.
+5.Click the ""Request OTP"" or ""Send OTP"" button.
+6.Check the registered email inbox or the phone's messages for the OTP code.
+7.Retrieve the OTP code.
+8.Enter an incorrect OTP code into the provided field.
+9.Click the ""Verify"" or ""Login"" button.","1.The website or app should display an error message indicating that the OTP entered is incorrect.
+2.The user should not be able to log in with an incorrect OTP."
+Account Management,Validate whether the user is able to login with Expired OTP,"1.Navigate to the Bankingwebsite or app.
+2.Click on the ""Login"" or ""Sign In"" link.
+3.Select the option for ""Login with OTP.""
+4.Enter a valid email or phone number associated with the user's account.
+5.Click the ""Request OTP"" or ""Send OTP"" button.
+6.Check the registered email inbox or the phone's messages for the OTP code.
+7.Retrieve the OTP code.
+8.Wait for a time period longer than the OTP expiration time (e.g., 6 minutes).
+9.Enter the OTP code into the provided field.
+10.Click the ""Verify"" or ""Login"" button.","1.The website or app should display an error message indicating that the OTP has expired.
+2.The user should not be able to log in with an expired OTP."
+Account Management,Validate whether user is able to view All Accounts,"1.Navigate to the URL of your bank's official website.
+2. Click on ""Login"" or ""Sign In"" button in bank's website,. 
+3.Enter your registered username or user ID in the provided field.
+4.Enter Password in provided field.
+5.Enter OTP sent to the register mobile number in provided field.
+6.Click the ""Login"" or ""Submit"" button to initiate the login process.
+7.Go to the ""Accounts"" section. 
+
+","1. User will be redirected to your account dashboard,
+2. User can see a list of all their accounts. 
+2. Account details such as account number, type, and balance are displayed."
+Account Management,Validate whether user is able to filter Accounts,"1.Navigate to the URL of your bank's official website.
+2. Click on ""Login"" or ""Sign In"" button in bank's website,. 
+3.Enter your registered username or user ID in the provided field.
+4.Enter Password in provided field.
+5.Enter OTP sent to the register mobile number in provided field.
+6.Click the ""Login"" or ""Submit"" button to initiate the login process.
+7. Go to the ""Accounts"" section. 
+8. Apply filters such as account type or status.",Accounts matching the specified filters are displayed.
+Account Management,Verify whether the user is able to access the balance information available in savings or current account.,"1.Navigate to the section of website or app labelled as ""Accounts""
+2.Click on ""Saving "" or Current account based on information needed.",User should be able to access the balance information available in savings or current account.
+Account Management, Verify that account statements are generated correctly.,"1.Choose the specific bank account for which user want to generate a statement if you have multiple accounts.
+Choose Statement Period:
+2.Select the period for which you want the statement. This could be a specific date range (e.g., monthly, quarterly, or custom dates).
+3.Click the ""Generate Statement"" or ""Download Statement"" button. The website may prompt you to confirm your request.
+Confirm Security:
+4.You may need to provide additional security information, such as answering security questions, entering a one-time password (OTP), or verifying your identity.
+5.After confirming the request, the bank's website should generate the statement in a downloadable format, such as PDF or CSV.
+6.Review the statement to ensure it is accurate. If everything looks good, save the statement to your device or computer.
+
+
+
+
+
+","The bank statement for the selected period is successfully generated and downloaded.
+"
+Account Management,"Verify that account data is synchronized across multiple platforms (web, mobile).","1. Log in to your online banking account via the web platform (e.g., using a web browser).
+2. Verify that your account data, including account balances, recent transactions, and account details, are accurate and up-to-date.
+3. Log in to your mobile banking application on your smartphone or tablet.
+4. Verify that the account data matches the data displayed on the web platform. Check account balances, transactions, and account details.","Account data should be consistent and synchronized across all platforms and also account balances, transaction history, and account details should match without discrepancies."
+Account Management,"Verify the ability to export account data in various formats (e.g., CSV, PDF).","1.Navigate to Account setting or profile section.
+2.Select the ""Export Data"",""Download Statements"" in account setting section.
+3.Choose the desired export format from the available options, which may include: CSV ,PDF ,Excel 
+4.Specify the date range or data filters for the export. Users may be able to select a custom date range or predefined options (e.g., last month, last year).
+5.Click the ""Export,"" ""Download,"" or ""Generate"" button to initiate the export process.","Exported data should be accessible and downloadable in the selected format, and the data should be accurate and well-structured."
+Account Management,Confirm that accounts with different currencies are handled correctly.,"1.Click on Accounts
+2.Navigate to the section of the application that displays your multi-currency account. 
+3.Check the balances of your multi-currency account in different currencies.","The multi-currency account should support various currencies, and the application should accurately display balances in each currency."
+Account Management, Verify that account histories are archived and retrievable.,"1.Navigate to the section of the application where account history is accessible. This is typically labeled as ""Transaction History"", ""Account Statements"".
+2.Select custom date range filter an older time period .
+3.Click on Generate
+","Review the retrieved account history to ensure that all transactions, including deposits, withdrawals, transfers, and payments, are displayed accurately."
+Account Management,Validate whether the account closure process and ensure all associated data is removed.,"1.Navigate to the account closure or account termination section of the application. This is typically found in the account settings or preferences.
+2.Click on ""Yes I agree"" to ensure that the application prompts you to confirm that you understand the implications of closing the account.
+3.Follow the steps to request the closure of your account. This may include entering a reason for closure and providing any additional information as required.
+4.Validate whether the account closure process and ensure all associated data is removed.","1.The application should provide a clear and user-friendly process for requesting account closure.
+2.Users should be required to confirm their understanding of the implications of closing the account.
+3.The application should acknowledge the closure request and provide a reference number or confirmation.
+4.After account closure, users should no longer have access to the associated data, and the data should be removed from the application."
+Account Overview,View Account Balances,"1. Navigate to the ""Account Overview"" or ""Dashboard"" section. 
+2. View the account balances for various types (e.g., savings, checking).","The user can see their account balances displayed accurately, providing an overview of their financial status."
+Account Overview,Transaction History,"1. Access the ""Account Overview"" or ""Transactions"" section. 
+2. View the transaction history for a selected account.","The user can see a list of recent transactions for the selected account, including details like date, payee, and amount."
+Account Overview,Upcoming Payments,"1. Navigate to the ""Account Overview"" or ""Upcoming Payments"" section. 
+2. View a list of upcoming scheduled payments.","The user can see a list of their upcoming scheduled payments, including payee names, amounts, and due dates."
+Account Overview,Account Statements,"1. Access the ""Account Overview"" or ""Statements"" section. 
+2. View and download account statements for a specified period.","The user can view and download account statements for the selected period, which include transaction details and balances."
+Account Overview,Account Summary,"1. Navigate to the ""Account Overview"" or ""Summary"" section. 
+2. View a summary of account details (e.g., account number, type, owner).","The user can see a summary of their account details, providing essential information about their accounts."
+Account Overview,Balance Trends,"1. Access the ""Account Overview"" or ""Trends"" section. 
+2. View graphical representations of account balance trends over time.","The user can see graphs and charts displaying their account balance trends, helping them track financial progress."
+Account Login,Incorrect Username,"1. On the login page, enter an incorrect username.
+2. Attempt to log in with the incorrect username.","The system should display an error message indicating that the username provided does not exist or is incorrect.
+The login process should fail, and the user should remain on the login page with an error prompt regarding the username."
+Account Login,Incorrect Password,"1. On the login page, enter the correct username.
+2. Enter an incorrect password associated with the username.
+3. Attempt to log in with the incorrect password.","
+The login process should fail, and the user should remain on the login page with an error message regarding the password."
+Account Login,Exceeding Maximum Login Attempts,"1. On the login page, attempt to log in with an incorrect username and/or password multiple times, exceeding the allowed attempts.","The system should lock the account or implement a cooldown period, preventing further login attempts for a specific duration, indicating that the account is temporarily locked due to excessive login attempts."
+Account Login,Account Lockout due to Security Measures,"1. On the login page, attempt to log in from an unrecognized device or location.","The system should trigger security measures such as two-factor authentication or require additional verification, informing the user that access is restricted due to security concerns."
+Account Login,Attempting Login with Inactive Account,"1. On the login page, enter credentials associated with an inactive or disabled account.","The system should display an error message indicating that the account is inactive or disabled, preventing the user from logging in."
+Account Login,Session Timeout,1. Log in successfully to the banking application.,Remain inactive for a duration exceeding the session timeout limit.
+Payments and Transfers,Validate money transfer functionality,"1.Navigate to the ""Transfer"" or ""Send Money"" section.
+2.Enter the transfer amount, select the source account, and specify the destination account.
+3.Initiate the fund transfer.
+4.Verify the updated balances for both accounts.","The application should process the transfer, deducting the amount from the source account and updating the destination account and Confirm that the source and destination account balances reflect the transfer accurately."
+Payments and Transfers,Verify that transactions are processed in real-time or within defined timeframes.,"1. Initiate a series of transactions (e.g., payments, fund transfers).
+2. Monitor the processing time:
+3. Verify the real-time processing:
+4. Check the defined timeframes:
+5. Confirm notifications or alerts:
+6. Review account balances:
+7. Verify transaction statuses:
+8. Check for any exceptions or delays:","1.Transactions should be initiated within the application.
+2.Keep track of the time when each transaction is initiated.
+3.For transactions advertised as real-time, they should be processed instantly without significant delay.
+4.For transactions with defined processing timeframes (e.g., 1-2 business days), ensure that they are processed within the specified timeframes.
+5.The application should provide notifications or alerts for successful and completed transactions.
+6.After processing, verify that the account balances are updated accurately.
+7.Transactions should be marked with appropriate statuses (e.g., pending, completed, failed) reflecting their progress.
+8.If any transaction experiences delays or exceptions, the application should provide clear information and support options."
+Payments and Transfers,Verify that transaction fees are accurately deducted.,"1. Navigate to ""Fund Transfer"" Section:
+2. Select a Transaction Type:
+3. Enter Transfer Details:
+4. Verify Transaction Fee:
+5. Initiate the Fund Transfer:
+6. Confirm Fee Deduction:
+7. Verify Recipient's Account:",The system should deduct only the amount specified while initiating transfer and also the application deducts the transaction fee from user's account balance.
+Payments and Transfers,Verify bill payment functionality by using netbanking,"1. Navigate to ""Bill Payment"" Section:
+2. Select a Bill to Pay:
+3. Enter Bill Payment Details:
+4. Verify Payment Information:
+5. Initiate the Bill Payment:
+6. Confirm Successful Payment:
+7. Verify Bill Payment:",The biller should receive the correct payment amount and that the bill is marked as paid.
+Payments and Transfers,Check for overdraft protection and notifications.,"1. Initiate a transaction that would lead to an overdraft.
+2. Verify that the account balance remains positive.
+3. Check for notifications or alerts about the overdraft protection.","The application should prevent the overdraft and notify the user about the protection action.
+The user should receive a notification or alert regarding the protection action."
+Payments and Transfers,"Verify that international transactions are handled appropriately (currency conversion, fees).","1. Initiate an international transaction.
+2. Verify that the correct exchange rate is used.
+3. Confirm that any applicable fees are deducted.","1.The application should handle currency conversion and apply fees as necessary.
+2.The applied exchange rate should be accurate.
+3.The transaction receipt should reflect the deducted fees."
+Payments and Transfers,Test transactions during scheduled maintenance periods.,"1. Attempt to initiate a transaction during the maintenance window.
+2. Wait for the maintenance period to end.
+3. Initiate a transaction after maintenance.","1.The application should inform users that transactions cannot be processed during this time.
+2.After maintenance, transactions should be allowed.
+3.Transactions should proceed as expected."
+Payments and Transfers,Verify that transaction references and receipts are generated accurately.,"1. Initiate a transaction.
+2. Verify the accuracy of the transaction details in the receipt.
+3. Check for the availability of the receipt.","1.The application should generate a unique transaction reference.
+2.The receipt should accurately reflect the transaction details.
+3.Users should have access to the transaction receipt for reference."
+Payments and Transfers, Test for duplicate transaction detection and prevention.,"1. Attempt to initiate the same transaction twice.
+2. Verify that no duplicate charges occur.","1.The application should detect the duplicate and prevent the second transaction.
+2.The user should not be charged twice for the same transaction."
+Payments and Transfers, Verify the handling of transactions involving joint accounts.,"1. Initiate a transaction involving a joint account.
+2. Verify that the transaction is processed once all authorizations are received.","1.The application should prompt for necessary authorizations from all account holders.
+2.The transaction should be processed only when all account holders authorize it."
+Payments and Transfers," Test the process of setting up recurring transactions (e.g., bill payments).","1. Navigate to the ""Recurring Transactions"" or ""Bill Payments"" section.
+2. Select the option to ""Set Up New Recurring Transaction.""
+3. Specify Transaction Details:
+4. Confirm Recurring Transaction:
+5. Verify the confirmation message:
+6. Access Recurring Transaction List:
+7. Check the start date:
+8. Verify that transactions occur as scheduled:
+9. Confirm receipt of recurring transaction:","1.Access the functionality to set up recurring transactions.
+2.Initiate the process of creating a new recurring transaction.
+3.Provide necessary information, including the recipient's account or biller details, the transaction amount, frequency (e.g., daily, weekly, monthly), and start date.
+4.Review the details and confirm the recurring transaction setup.
+5.The application should provide a confirmation message stating that the recurring transaction has been set up.
+6.Verify that the newly created recurring transaction is added to the list of recurring transactions or bill payments.
+7.Ensure that the recurring transaction begins on the specified start date.
+8.Subsequent transactions should take place according to the selected frequency (daily, weekly, monthly).
+9.Verify that the recipient or biller receives the recurring payment as expected"
+Payments and Transfers, Test the integration with third-party payment gateways.,"1. Initiate a transaction using a third-party payment gateway.
+2. Follow the third-party payment gateway process.
+3. Enter transaction details:
+4. Authorize and confirm the transaction:
+5. Verify the transaction status:
+6. Review account balances:
+7. Confirm receipt of transaction:
+8. Check for error handling:","1.The application should allow users to initiate transactions via third-party payment gateways.
+2.Users should follow the process provided by the third-party gateway, which may include redirection to the gateway's website or app.
+3.Enter the necessary transaction details, including recipient information and payment amount.
+4.Confirm and authorize the transaction through the third-party gateway.
+5.The application should promptly reflect the transaction status as pending or completed based on information from the third-party gateway.
+6.After processing, verify that the account balances are updated accurately.
+7.Ensure that the recipient or intended party receives the payment or service as expected.
+8.If there are issues with the third-party gateway, the application should provide clear information and support options."
+Payments and Transfers,Add New Biller,"1. Log in to the banking website. 
+2. Navigate to the ""Bill Payment"" section. 
+3. Add a new biller by providing required information.",The new biller is added and available for future payments.
+Payments and Transfers,Schedule Recurring Transfer,"1. Log in to the banking website. 
+2. Access the ""Fund Transfer"" section. 
+3. Set up a recurring transfer with frequency and end date.","The recurring transfer is scheduled, and confirmation is shown."
+Payments and Transfers, Test the processing of transactions involving foreign exchange rates.,"1. Initiate a foreign exchange transaction:
+2. Select the foreign exchange option:
+3. Enter transaction details:
+4. Verify the exchange rate:
+5. Confirm the transaction:
+6. Verify the transaction status:
+7. Review account balances:
+8. Confirm receipt of the transaction:","1.Initiate a transaction that involves currency conversion, such as sending money to an international recipient.
+2.The application should provide an option to perform the foreign exchange, specifying the source and target currencies.
+3.Provide the necessary transaction information, including the amount in the source currency.
+4.The application should display the current exchange rate for the selected currencies.
+5.After verifying the details, confirm and authorize the foreign exchange transaction.
+6.The application should promptly reflect the transaction status as pending or completed, including the converted amount.
+7.After processing, verify that the account balances are updated accurately, reflecting the converted amount.
+8.Ensure that the recipient or intended party receives the payment in the target currency as expected."
+Payments and Transfers,Transfer Funds Within the Same Account,"1. Select the same account as the source and destination. 
+2. Enter the transfer amount. 
+3. Initiate the transfer.","Funds are transferred within the same account, and the balance reflects the change accurately."
+Payments and Transfers,Transfer Funds to Another Account Within the Same Bank,"1. Select the source and destination accounts. 
+2. Enter the transfer amount. 
+3. Initiate the transfer.","Funds are successfully transferred between accounts within the same bank, and balances update accordingly."
+Payments and Transfers,Transfer Funds to Another Bank (Domestic),"1. Enter recipient's account details (account number, bank name, routing number, etc.). 
+2. Enter the transfer amount. 
+3. Initiate the transfer.","Funds are transferred to the recipient's account in another bank, and the user receives confirmation of the successful transfer."
+Payments and Transfers,Transfer Funds to an International Bank,"1. Enter recipient's international account details (IBAN, SWIFT/BIC code, bank name, etc.). 
+2. Enter the transfer amount and select the currency. 
+3. Initiate the international transfer.","Funds are transferred to the recipient's international account, and the user receives confirmation with exchange rate details."
+Payments and Transfers,Verify Transfer History,"1. Access the transfer history or transaction history section. 
+2. Verify the list of past fund transfers. 
+3. Click on a transfer to view details.","The transfer history accurately displays all past fund transfers, and users can view transaction details"
+Bill Payments,Pay Bills,"1. Access the ""Bill Payment"" or ""Pay Bills"" section. 
+2. Select the biller or service provider. 3. Enter the payment amount. 
+4. Confirm the payment.","The bill payment is successfully made, and the user receives a payment confirmation. The payment amount is deducted from the user's account balance."
+Bill Payments,Manage Payment Recipients,"1. Go to the ""Manage Payment Recipients"" or ""Recipient List"" section. 2. Select a payment recipient. 
+3. Edit recipient details (e.g., account number, nickname). 
+4. Save the changes.","The recipient's details are successfully updated, ensuring accurate and up-to-date information for future payments."
+Bill Payments,View Payment History,"1. Access the ""Payment History"" or ""Transaction Records"" section. 2. Select the desired time frame or filter options. 3. View the payment history.","The user can view a list of past payments, including details such as date, recipient, and payment amount, within the selected time frame or filter criteria."
+Bill Payments,Set Payment Limits,"1. Navigate to the ""Payment Limits"" or ""Transaction Limits"" section. 
+2. Set specific limits (e.g., daily, monthly) for fund transfers and bill payments. 
+3. Save the limits.","The user's payment limits are successfully set, ensuring control over the maximum amounts for fund transfers and bill payments."
+Adding a Beneficiary,Add a New Payee,"1. Navigate to the ""Manage Payees"" or ""Add Beneficiary"" section. 
+2. Click on ""Add New Payee"" or ""Add Beneficiary.""
+ 3. Provide payee details (e.g., name, account number, bank details). 
+4. Save the payee information.",The new payee is successfully added to the user's list of beneficiaries and can be selected for fund transfers or payments.
+Adding a Beneficiary,Edit Payee Details,"1. Access the ""Manage Payees"" or ""Beneficiary List"" section.
+2. Select the payee to edit. 
+3. Modify the payee's details (e.g., account number, nickname). 
+4. Save the changes.","The payee's details are successfully updated, and the user can make payments or transfers with the revised information."
+Adding a Beneficiary,Delete a Beneficiary,"1. Go to the ""Manage Payees"" or ""Beneficiary List"" section. 
+2. Choose the payee to delete. 
+3. Confirm the deletion.",The selected payee is removed from the user's list of beneficiaries and is no longer available for fund transfers or payments.
+Adding a Beneficiary,Set Payment Frequency,"1. Navigate to the ""Manage Payees"" or ""Beneficiary List"" section. 
+2. Select the payee. 
+3. Define the payment frequency (e.g., one-time, recurring). 
+4. Save the payment frequency.","The payment frequency for the payee is successfully set, allowing the user to schedule one-time or recurring payments as needed."
+Adding a Beneficiary,Verify Payee Details,"1. Access the ""Manage Payees"" or ""Beneficiary List"" section. 
+2. Select the payee to verify. 
+3. Review the payee's details for accuracy.",The user can verify the payee's details to ensure that the beneficiary's information is correct and up to date.
+Adding a Beneficiary,Enable Two-Factor Authentication,"1. Navigate to the ""Security Settings"" or ""Authentication Options"" section. 
+2. Choose to enable two-factor authentication (e.g., OTP, biometrics) for beneficiary-related transactions. 
+3. Save the changes.","Two-factor authentication for beneficiary transactions is successfully enabled, enhancing security for fund transfers or payments."
+Bill Payments,Paying an Invalid Bill,"1. Navigate to the ""Bill Payments"" section.
+2. Attempt to pay a bill that does not exist or is not registered within the system (e.g., using an incorrect account number or bill ID).
+3. Proceed with the payment attempt.","The payment process should fail, and the user should receive a notification stating that the bill details provided are incorrect or not recognized."
+Bill Payments,Paying a Bill with Insufficient Funds,"1. Navigate to the ""Bill Payments"" section.
+2. Attempt to pay a bill when the account balance is insufficient to cover the payment amount.
+3. Proceed with the payment attempt.","The payment process should fail, and the user should receive a notification stating that the transaction cannot be completed due to insufficient funds."
+Bill Payments,Attempting to Cancel a Payment that's Already Processed,"1. Navigate to the ""Bill Payments"" section.
+2. Attempt to cancel a bill payment that has already been successfully processed or cleared.
+3. Proceed with the cancellation attempt.","The cancellation process should fail, and the user should receive a notification stating that the payment cannot be canceled as it has already been processed or settled."
+Bill Payments,Attempting to Pay a Bill from an Inactive Payment Method,"1. Navigate to the ""Bill Payments"" section.
+2. Select a payment method that is inactive or no longer valid (e.g., expired card, closed bank account).
+3. Proceed with the bill payment attempt.","2. Select a payment method that is inactive or no longer valid (e.g., expired card, closed bank account)."
+Bill Payments,Paying a Duplicate Bill,"1. Navigate to the ""Bill Payments"" section.
+2. Attempt to pay a bill that has already been processed or paid previously.
+3. Proceed with the payment attempt.","The payment process should fail, and the user should receive a notification stating that the bill payment cannot be completed as it is a duplicate payment for a previously processed bill."
+Bill Payments,Paying a Bill During Scheduled Maintenance,"1. Attempt to access the ""Bill Payments"" section during a scheduled maintenance window announced by the banking application.
+2. Proceed to make a bill payment during the maintenance period.","1. The system should inform the user about the ongoing maintenance and the unavailability of the bill payments feature during this period.
+2.The system should prevent the user from initiating any bill payments and display a message indicating that the feature is temporarily unavailable due to maintenance."
+Multi-Currency Handling,View Account Balances in All Currencies,"1. Navigate to the ""Account Balances"" or ""Currency Overview"" section. 
+2. Select the desired currency or view all currencies. 
+3. View the account balances.",The user can see the account balances in the specified currency or across all available currencies. Balances are displayed accurately in the chosen currency.
+Multi-Currency Handling,Perform Currency Conversion,"1. Access the ""Currency Conversion"" or ""FX Transactions"" section. 
+2. Choose the source and target currencies. 
+3. Enter the conversion amount. 
+4. Confirm the conversion.","The currency conversion is successfully executed, and the user receives a confirmation of the transaction. The converted amount is reflected in the target currency."
+Multi-Currency Handling,Set Preferred Currency,"1. Navigate to the ""Preferred Currency"" or ""Primary Currency"" settings. 
+2. Choose the preferred currency from the available options. 
+3. Save the preference.","The user's preferred currency is successfully set, and the application displays account balances and transactions in the selected currency by default."
+Multi-Currency Handling,View Currency Exchange Rates,"1. Access the ""Currency Exchange Rates"" or ""FX Rates"" section.
+2. Select the currency pair (e.g., USD to EUR). 
+3. View the exchange rates.","The user can see the exchange rates for the selected currency pair, providing transparency for currency conversion transactions."
+Multi-Currency Handling,Perform Multi-Currency Transaction,"1. Navigate to the ""Multi-Currency Transaction"" or ""Cross-Currency Transfer"" section. 
+2. Select source and destination accounts with different currencies. 
+3. Enter the transfer amount. 
+4. Confirm the transaction.","The multi-currency transaction is successfully processed, and the user receives confirmation. The amount is converted as per the exchange rate, and the transfer is completed."
+Fund Transfer,UPI Transfer,"1. Log in to the banking application. 
+2. Navigate to the ""Transfer Funds"" or ""UPI Transfer"" section. 
+3. Enter the recipient's UPI ID and the transfer amount. 
+4. Confirm the transfer.",The UPI transfer is successfully initiated and the recipient receives the funds in real-time.
+Fund Transfer,NEFT Transfer,"1. Log in to the banking application. 
+2. Navigate to the ""Transfer Funds"" or ""NEFT Transfer"" section. 
+3. Fill in recipient details, including account number and IFSC code. 
+4. Confirm the transfer.",The NEFT transfer request is submitted successfully. The funds are transferred to the recipient's account within the NEFT timeframes.
+Fund Transfer,RTGS Transfer,"1. Log in to the banking application. 
+2. Navigate to the ""Transfer Funds"" or ""RTGS Transfer"" section. 
+3. Provide recipient details, including account number and IFSC code. 
+4. Confirm the transfer.","The RTGS transfer request is successfully submitted, and the recipient's account is credited in real-time."
+Fund Transfer,IMPS Transfer,"1. Log in to the banking application. 
+2. Navigate to the ""Transfer Funds"" or ""IMPS Transfer"" section. 
+3. Enter recipient details, including mobile number or MMID. 
+4. Confirm the transfer.","The IMPS transfer is initiated and processed instantly, allowing the recipient to receive the funds immediately."
+Fund Transfer,Transfer with Insufficient Balance,"1. Navigate to the ""Transfers"" section.  
+2. Initiate a transfer that exceeds the available account balance.","The application should prevent the transfer from completing and display a clear message indicating insufficient funds, prompting the user to revise the transfer amount or fund the account."
+Fund Transfer,Transfer to an Invalid or Inactive Account,"1. Navigate to the ""Transfers"" section.  
+2. Input details of a non-existent or inactive recipient account.","The application should reject the transfer request, showing an error message specifying that the recipient account is invalid, does not exist, or is currently inactive."
+Fund Transfer,Encounter Technical Issues during Transfer,"1. Navigate to the ""Transfers"" section.  
+2. Simulate a technical issue by initiating a transfer during system maintenance or downtime.","The application should handle the technical problem gracefully, displaying an error message that acknowledges the issue and advises the user to attempt the transfer later when the system is available."
+Fund Transfer,Experience Delay or Timeout during Transfer,"1. Navigate to the ""Transfers"" section.  
+2. Perform a transfer and deliberately disrupt the network connectivity or simulate a long processing delay.","The application should inform the user about the delay or timeout, displaying a notification indicating the issue and advising the user to verify the status later or contact support if necessary."
+Fund Transfer,Attempt to Initiate an Invalid or Unsupported Transfer,"1. Navigate to the ""Transfers"" section.  
+2. Try to conduct a transfer with unsupported characters, invalid formats, or without mandatory details (like amount, recipient, etc.).","The application should reject the invalid transfer attempt, displaying a prompt highlighting the specific error and guiding the user to fill in the required details correctly for a valid transfer."
+Transaction,View Recent Transactions,"1. Log in to the banking website. 
+2. Navigate to the ""Transaction History"" section.","User can see a list of recent transactions, including date, description, and amount."
+Transaction,Search Transaction History,"1. Log in to the banking website. 
+2. Access the ""Transaction History"" section. 
+3. Use the search feature to find a specific transaction.",The specific transaction is displayed in the search results.
+Transaction,Test for transaction limits and restrictions on various account types.,"1. Navigate to ""Transaction Limit"" Section:
+2. View Transaction Limits:
+3. Initiate Transactions:
+4. Verify Successful Transactions:
+5. Attempt Exceeding Transaction Limits:
+6. Verify Error Message:","1.Access the section that displays transaction limits.
+2.Verify that the application displays your transaction limits, such as daily, weekly, and monthly limits for various transaction types (e.g., fund transfers, bill payments).
+3.Attempt to initiate transactions that are within the specified limits.
+4.Confirm that transactions within the limits are processed successfully.
+5.Try to initiate transactions that exceed the specified limits.
+6.Ensure that the application displays an error message when attempting transactions beyond the limits."
+Transaction, Verify that transactions are reflected correctly in account statements.,"1. Access the account statement or transaction history section of the application.
+2. Review the list of recent transactions.
+3. Verify the accuracy of transaction details.
+4. Check for transaction statuses.
+5. Confirm the balance calculation.
+6. Filter transactions if necessary.
+7. Generate a downloadable statement if needed.
+8. Check for the inclusion of all transactions.
+9. Ensure proper formatting and layout.","1.Navigate to the account statement or transaction history.
+2.Examine the list of recent transactions within the account statement.
+3.Ensure that each transaction's details, such as date, description, amount, and category, are accurate.
+4.Transactions should be marked with appropriate statuses (e.g., pending, completed, failed).
+5.The calculated balance should be consistent with the transaction history.
+6.The application should allow filtering transactions by date, category, or other criteria.
+7.Users should be able to generate and download a statement for their records.
+8.The statement should include all recent transactions within the specified timeframe.
+9.The statement's formatting and layout should be clear and easy to understand."
+Transaction,"Test transactions with offline banking options (e.g., check deposits at ATMs).","1. Access the account statement or transaction history section of the application.
+2. Review the list of recent transactions.
+3. Verify the accuracy of transaction details.","1.Navigate to the account statement or transaction history.
+2.Examine the list of recent transactions within the account statement.
+3.Ensure that each transaction's details, such as date, description, amount, and category, are accurate."
+Transaction, Verify the ability to dispute and investigate erroneous transactions.,"1. Access the account statement or transaction history.
+2. Identify the erroneous transaction to dispute.
+3. Select the disputed transaction.
+4. Find the ""Dispute"" or ""Report a Problem"" option.
+5. Enter details for the dispute:
+6. Confirm the dispute submission.
+7. Investigate the disputed transaction:
+8. Notify the user of the investigation status.
+9. Resolve the dispute:
+10. Update the account statement.
+11. Notify the user of the final outcome.","1.Navigate to the account statement or transaction history.
+2.Locate the transaction that the user believes is erroneous.
+3.Choose the disputed transaction for further investigation.
+4.The application should provide an option to report a problem or dispute the transaction.
+5.Provide information explaining the nature of the dispute, including any supporting documents or notes.
+6.The application should acknowledge the dispute submission.
+7.The bank or customer support team should initiate an investigation into the disputed transaction.
+8.The user should receive updates on the progress of the investigation.
+9.Once the investigation is complete, the bank should take appropriate actions, such as refunding the amount or denying the dispute.
+10.The account statement should be updated to reflect the resolution of the dispute.
+11.The user should be informed of the final decision regarding the dispute."
+Transaction, Verify the handling of large transactions that may require additional authorization.,"1. Initiate a large transaction:
+2. Verify the additional authorization request:
+3. Complete the additional authorization:
+4. Confirm the transaction:
+5. Verify the transaction status:
+6. Review account balances:
+7. Confirm receipt of the transaction:
+8. Check for error handling:","1.Initiate a transaction with an amount that exceeds a predefined threshold, triggering the need for additional authorization.
+2.The application should prompt the user for additional authorization, which may include security questions, one-time passwords, or biometric verification.
+3.Follow the provided instructions to complete the additional authorization process.
+4.After successful additional authorization, confirm and authorize the transaction.
+5.The application should promptly reflect the transaction status as pending or completed.
+6.After processing, verify that the account balances are updated accurately.
+7.Ensure that the recipient or intended party receives the payment or service as expected.
+8.If there are issues with the additional authorization process, the application should provide clear information and support options."
+Transaction,Verify that transactions are time-stamped accurately for auditing purposes.,"1. Initiate a transaction (e.g., payment, fund transfer).
+2. Verify the transaction timestamp:
+3. Confirm the transaction:
+4. Verify the transaction status:
+5. Review transaction history:
+6. Check the accuracy of the timestamp:
+7. Ensure consistency across platforms:
+8. Access transaction audit logs if available:","1.Initiate a transaction within the application.
+2.The application should timestamp the transaction with the precise date and time of the transaction initiation.
+3.After verifying the timestamp, confirm and authorize the transaction.
+4.The application should promptly reflect the transaction status as pending or completed, including the timestamp.
+5.Access the transaction history section or statement to view the transaction and its timestamp.
+6.The timestamp should accurately reflect the date and time of the transaction initiation.
+7.Verify that the timestamp remains consistent across different platforms (web, mobile, ATM, etc.).
+8.If audit logs are provided, check that the transaction is recorded with the correct timestamp for auditing purposes."
+Transaction,Validate whether the user is able to filter the transactions and view the resulte,"1. Access the ""Transaction History"" or ""Transaction Search"" section.
+2. Select the desired account or transaction type.
+3. Apply filters for date range and transaction amount.
+4. Enter keywords or transaction reference details.
+5. Initiate the search or filter application.
+6. Review the search results.
+7. Click on a transaction for more details.
+8. Reset or clear filters as needed.","1. Access the ""Transaction History"" or ""Transaction Search"" section.
+2. Select the desired account or transaction type.
+3. Apply filters for date range and transaction amount.
+4. Enter keywords or transaction reference details.
+5. Initiate the search or filter application.
+6. Review the search results.
+7. Click on a transaction for more details.
+8. Reset or clear filters as needed."
+Transaction,Validate whether the user is able to export or download the filtered transactions,"1. Access the ""Transaction History"" or ""Transaction Search"" section.
+2. Select the desired account or transaction type.
+3. Apply filters for date range and transaction amount.
+4. Enter keywords or transaction reference details.
+5. Initiate the search or filter application.
+6. Review the search results.
+7. Click on a transaction for more details.
+8. Reset or clear filters as needed.
+9. Export search results if available.
+10. Verify that search results are accurate and complete.","1. Access the ""Transaction History"" or ""Transaction Search"" section.
+2. Select the desired account or transaction type.
+3. Apply filters for date range and transaction amount.
+4. Enter keywords or transaction reference details.
+5. Initiate the search or filter application.
+6. Review the search results.
+7. Click on a transaction for more details.
+8. Reset or clear filters as needed.
+9. Export search results if available.
+10. Verify that search results are accurate and complete."
+Account History and Archiving,View Account Transaction History,"1. Access the ""Transaction History"" or ""Account Statements"" section. 
+2. Select the desired time frame (e.g., last month, last year). 
+3. View the transaction history.","The user can view a list of transactions within the selected time frame, including details like date, description, amount, and balance."
+Account History and Archiving,Download Account Statements,"1. Access the ""Account Statements"" or ""Statement Download"" section. 
+2. Choose the desired statement (e.g., monthly statement). 
+3. Download the statement in a preferred format (e.g., PDF).","The user can successfully download the selected account statement in the chosen format (e.g., PDF) for record-keeping or printing."
+Account History and Archiving,Search for Specific Transactions,"1. Navigate to the ""Transaction Search"" or ""Search Transactions"" feature. 2. Enter search criteria (e.g., date range, transaction type, amount). 
+3. Perform the search.","The application displays a list of transactions that match the search criteria, allowing the user to find specific transactions efficiently."
+Account History and Archiving,View Archived Statements,"1. Access the ""Archived Statements"" or ""Old Statements"" section. 
+2. Select the desired archived statement (e.g., from a previous year). 
+3. View the archived statement.","The user can view archived statements, including details from previous years, ensuring access to historical financial records."
+Account History and Archiving,Request Statement Re-Issuance,"1. Navigate to the ""Request Statement Re-Issuance"" or ""Statement Reprint"" section. 
+2. Specify the statement to be re-issued (e.g., lost statement). 
+3. Submit the request.","The system processes the request for re-issuing the specified statement, which can be sent to the user via email or postal mail."
+Account History and Archiving,"Access Tax Statements (e.g., 1099 forms)","1. Go to the ""Tax Documents"" or ""Tax Statements"" section. 
+2. Select the desired tax statement (e.g., 1099-INT). 
+3. View or download the tax statement.","The user can access and view/download tax statements such as the 1099-INT, which may be required for tax reporting purposes."
+Exporting Account Data,Export Account Statement,"1. Navigate to the ""Account Statements"" or ""Transaction History"" section. 
+2. Select the desired statement period. 
+3. Choose the export format (e.g., PDF, CSV). 
+4. Initiate the export.",The account statement for the selected period is successfully exported in the chosen format. The file is downloaded and ready for use.
+Exporting Account Data,Download Transaction History,"1. Access the ""Transaction History"" or ""Recent Transactions"" section. 
+2. Apply any necessary filters or date ranges. 
+3. Select the export option (e.g., Download CSV). 
+4. Initiate the download.","The transaction history data is successfully exported in the selected format (e.g., CSV). The user can access the downloaded file for further analysis."
+Exporting Account Data,Export Tax Statements,"1. Navigate to the ""Tax Statements"" or ""Year-End Statements"" section. 
+2. Select the desired tax year or statement type. 
+3. Choose the export format (e.g., PDF, Excel). 
+4. Initiate the export.",The tax statement for the selected year and format is successfully exported. The user can access and use the tax statement for reporting purposes.
+Exporting Account Data,Share Exported Data via Email,"1. Export account data (e.g., statement, transaction history). 
+2. Choose the option to share via email. 
+3. Enter the recipient's email address. 
+4. Add a message (optional). 
+5. Send the email.","The exported account data is shared with the specified recipient via email, and the recipient receives the email with the data attached."
+Exporting Account Data,Save Exported Data to Cloud,"1. Export account data (e.g., statement, transaction history). 
+2. Select the option to save to a cloud service (e.g., Google Drive, Dropbox). 
+3. Provide necessary credentials for the cloud service. 
+4. Save the data to the cloud.",The exported account data is successfully saved to the specified cloud storage service and can be accessed from the user's cloud account.
+Transaction References and Receipts,Access Transaction Receipt,"1. Navigate to the ""Transaction History"" or ""Recent Transactions"" section. 
+2. Locate the specific transaction. 
+3. Access the transaction receipt or details.","The user can access the detailed receipt or information for the specific transaction, which includes transaction date, amount, transaction type, and reference number."
+Transaction References and Receipts,Generate Transaction Receipt,"1. Complete a new transaction (e.g., transfer, bill payment). 
+2. Access the transaction confirmation screen. 
+3. Generate a transaction receipt or confirmation.",The user can generate a transaction receipt that includes all relevant transaction details. The receipt is successfully generated and available for download or sharing.
+Transaction References and Receipts,View Transaction Reference Number,"1. Complete a new transaction (e.g., fund transfer, bill payment). 
+2. Access the transaction confirmation screen. 
+3. Note the reference number for the transaction.","The user can easily find and view the reference number for the transaction, ensuring transparency and aiding in tracking and verification."
+Transaction References and Receipts,Download Receipt as PDF or Save as Image,1. Access the generated transaction receipt. 2. Choose the option to download as a PDF or save as an image. 3. Select the location to save the file.,The user can successfully download the transaction receipt as a PDF document or save it as an image. The saved file is accessible for future reference or sharing.
+Transaction References and Receipts,Share Receipt via Email or Messaging App,"1. Access the generated transaction receipt. 
+2. Choose the option to share via email or messaging app. 
+3. Enter the recipient's email address or select a contact. 
+4. Send the receipt.",The user can share the transaction receipt with the specified recipient via email or a messaging app. The recipient receives the receipt as intended.
+Scheduled Transactions,Schedule a One-Time Payment,"1. Navigate to the ""Scheduled Transactions"" or ""Payments"" section. 
+2. Select ""Schedule One-Time Payment."" 
+3. Enter payment details (payee, amount, date). 
+4. Confirm the payment.","The one-time payment is successfully scheduled for the specified date and amount, and a confirmation is displayed."
+Scheduled Transactions,View Scheduled Payments,"1. Access the ""Scheduled Transactions"" or ""Payments"" section. 
+2. View the list of scheduled payments.","The user can view a list of all their scheduled payments, including payee names, amounts, and scheduled dates."
+Scheduled Transactions,Edit a Scheduled Payment,"1. Access the ""Scheduled Transactions"" or ""Payments"" section. 
+2. Select the scheduled payment to edit. 
+3. Modify payment details (amount, date). 
+4. Confirm the changes.","The scheduled payment is successfully edited with the updated details, and a confirmation is displayed."
+Scheduled Transactions,Cancel a Scheduled Payment,"1. Access the ""Scheduled Transactions"" or ""Payments"" section. 2. Select the scheduled payment to cancel. 3. Choose the option to cancel or delete.",The scheduled payment is successfully canceled and removed from the list of scheduled payments.
+Scheduled Transactions,Set Up Recurring Payments,"1. Navigate to the ""Scheduled Transactions"" or ""Payments"" section. 
+2. Select ""Set Up Recurring Payment."" 
+3. Enter payment details (payee, amount, frequency). 4. Confirm the payment.","The recurring payment is successfully set up according to the specified frequency, and a confirmation is displayed."
+Scheduled Transactions,View Recurring Payment Schedule,"1. Access the ""Scheduled Transactions"" or ""Payments"" section. 
+2. View the list of recurring payments and their schedule.","The user can view a list of their recurring payments, including payee names, amounts, and payment frequencies."
+Scheduled Transactions,Edit a Recurring Payment,"1. Access the ""Scheduled Transactions"" or ""Payments"" section. 
+2. Select the recurring payment to edit. 
+3. Modify payment details (amount, frequency). 
+4. Confirm the changes.","The recurring payment is successfully edited with the updated details, and a confirmation is displayed."
+Scheduled Transactions,Cancel a Recurring Payment,"1. Access the ""Scheduled Transactions"" or ""Payments"" section. 
+2. Select the recurring payment to cancel. 
+3. Choose the option to cancel or delete.",The recurring payment is successfully canceled and removed from the list of recurring payments.
+Notification and Alerts,Set Up Account Alerts,"1. Navigate to the ""Alerts"" or ""Notifications"" section. 
+2. Select the type of alert (e.g., balance change, transaction notification). 
+3. Define alert settings (threshold amount, frequency, notification method). 
+4. Save the alert settings.","Account alerts are successfully set up, and the user receives notifications based on the specified criteria."
+Notification and Alerts,Modify Account Alert Settings,"1. Navigate to the ""Alerts"" or ""Notifications"" section. 
+2. Select the existing alert to modify. 
+3. Adjust alert settings (e.g., change threshold, update notification method). 
+4. Save the modified alert settings.","Alert settings are modified, and the user continues to receive notifications based on the updated criteria."
+Notification and Alerts,Enable/Disable Account Alerts,"1. Navigate to the ""Alerts"" or ""Notifications"" section. 
+2. Select the existing alert to enable or disable. 
+3. Toggle the alert status to enable or disable. 
+4. Save the changes.","Enabled alerts continue to trigger notifications, while disabled alerts do not send notifications until re-enabled."
+Notification and Alerts,Receive Real-Time Transaction Alerts,"1. Initiate a relevant transaction (e.g., fund transfer, card payment). 
+2. Ensure real-time alerts are enabled. 
+3. Complete the transaction.","The user receives real-time alerts for the completed transaction, providing details and confirmation."
+Notification and Alerts,Set Up Low Balance Alert,"1. Navigate to the ""Alerts"" or ""Notifications"" section. 
+2. Select ""Low Balance"" alert type. 
+3. Specify the low balance threshold amount. 
+4. Save the alert settings.","When the account balance falls below the defined threshold, the user receives an alert notification."
+Notification and Alerts,Set Up Security Alerts,"1. Navigate to the ""Alerts"" or ""Notifications"" section. 
+2. Choose ""Security Alerts."" 
+3. Select the types of security events to be notified about (e.g., login from a new device, password change). 
+4. Save the alert settings.","The user receives security alerts for the specified events, enhancing account security."
+Notification and Alerts,Test Alert Notifications,"1. Simulate an event or transaction that triggers an alert (e.g., make a transaction exceeding the alert threshold). 
+2. Verify that the alert notification is received promptly.","The alert notification is sent in real-time when the triggering event occurs, and the user is informed as expected."
+Securing Messages,Send a Secure Message,"1. Access the ""Secure Messaging"" or ""Contact Us"" section. 
+2. Compose a secure message. 
+3. Select a recipient from the list. 4. Send the message.",The secure message is successfully composed and sent to the specified recipient. The message content is encrypted and secure.
+Securing Messages,View Secure Message,"1. Access the ""Secure Messaging"" or ""Inbox"" section. 
+2. Locate the received secure message. 
+3. Open the message to view its content.",The user can view the received secure message and read its content. The message remains encrypted for security.
+Securing Messages,Reply to a Secure Message,"1. Access the ""Secure Messaging"" or ""Inbox"" section. 
+2. Open a received secure message. 
+3. Choose the option to reply. 4. Compose and send the reply.","The user can successfully reply to a received secure message, and the reply is sent securely to the sender."
+Securing Messages,Attach Documents to Secure Message,"1. Compose a secure message. 
+2. Attach one or more documents to the message. 
+3. Send the secure message.",The secure message with attached documents is successfully composed and sent securely to the recipient.
+Securing Messages,Delete Secure Messages,"1. Access the ""Secure Messaging"" or ""Inbox"" section. 
+2. Select one or more secure messages. 
+3. Choose the option to delete.","The selected secure messages are successfully deleted from the inbox, enhancing user control over their secure messages."
+Delayed Notifications,Delay in Notification Delivery,"1. Trigger an event that should prompt a notification or alert.  
+2. Monitor the time taken for the notification to appear in the app.",Notifications or alerts should be promptly delivered within an acceptable timeframe (usually near real-time). Any significant delays beyond the expected timeframe should be investigated and rectified.
+Incorrect Notifications,Receiving Incorrect or Misleading Notifications,"1. Trigger an event that should generate a notification. 
+2. Verify the content and accuracy of the notification received.",The notification content should accurately represent the event or information it intends to convey. Any misleading or incorrect notifications should be reported and rectified to provide users with precise and reliable information.
+Notification Failure,Notifications Not Being Delivered,"1. Trigger an event that should prompt a notification.  
+2. Verify if the expected notification is received within the app.",All relevant notifications related to user-initiated actions or important banking updates should be consistently delivered. Failure to receive these notifications should be addressed immediately to ensure users stay informed about their account activities.
+Inconsistent Alerts,Inconsistency in Alert Settings,"1. Access the notification/alert settings within the app.  
+2. Modify the settings to enable/disable certain types of alerts.","Changes in alert settings should reflect accurately, and users should receive or not receive alerts based on their preference settings. Inconsistencies or failures in adhering to these settings need to be addressed and fixed."
+Duplicate Notifications,Receiving Duplicate Notifications,"1. Trigger an event that should generate a notification.  
+2. Check for multiple instances or duplicates of the same notification.","Notifications should not be duplicated or sent repeatedly for the same event or action. Duplicate notifications clutter the interface and may confuse users, so the system should prevent or manage such instances effectively."
+Banking Service Requests,Account Closure Request,"1. Access the ""Account Closure"" section.
+2. Select the account to be closed.
+3. Provide a reason for closure.
+4. Confirm the account closure request.
+5. Verify account closure confirmation.","1.Navigate to the account closure request section.
+2.Choose the account you want to close.
+3.Enter a reason for closing the account (e.g., not needed, changing banks).
+4.The request should be submitted, and a confirmation message provided.
+5.Ensure the account is closed, and the user receives a final account statement, if applicable."
+Banking Service Requests,Address Change Request,"1. Access the ""Address Change"" section.
+2. Provide the new address details.
+3. Upload necessary documents.
+4. Submit the address change request.
+5. Verify address update confirmation.","1.Navigate to the address change request section.
+2.Enter the updated address, including street, city, state, and postal code.
+3.If required, upload supporting documents, such as proof of address.
+4.The request should be submitted with a confirmation message.
+5.Confirm that the address is updated in the user's account records."
+Banking Service Requests,Debit Card Replacement Request,"1. Access the ""Card Replacement"" section.
+2. Select the reason for replacement.
+3. Confirm the replacement request.
+4. Receive the replacement card.
+4. Submit the address change request.
+5. Verify address update confirmation.","1.Navigate to the debit card replacement request section.
+2.Choose the reason for the replacement (e.g., lost, damaged).
+3.The request should be submitted, and a confirmation message provided.
+4.The user should receive the new debit card at the registered address.
+5.The request should be submitted with a confirmation message.
+Confirm that the address is updated in the user's account records."
+Banking Service Requests,Checkbook Request,"1. Access the ""Checkbook Request"" section.
+2. Select the account for which a checkbook is needed.
+3. Specify the number of check leaves.
+4. Review and confirm the checkbook request.
+5. Receive confirmation of the checkbook request.
+6. Await delivery of the new checkbook.","1.Navigate to the checkbook request section within the banking application.
+2.Choose the specific account associated with the checkbook request.
+3.Enter the desired number of check leaves required in the new checkbook.
+4.Verify the details, and confirm the request to order a new checkbook.
+5.The application should provide a confirmation message with an order reference number.
+6.The user should receive the new checkbook at the registered address within the specified delivery time frame."
+Banking Service Requests,Loan Application Request,"1. Access the ""Loan Application"" section.
+2. Select the type of loan.
+3. Enter loan details and amount.
+4. Submit required documents.
+5. Review and confirm the loan application.
+6. Receive confirmation of the loan application.
+7. Await loan processing and approval.","1.Navigate to the loan application request section in the banking application.
+2.Choose the specific type of loan the user wishes to apply for (e.g., personal loan, mortgage).
+3.Provide all necessary loan details, including the desired loan amount and repayment term.
+4.Upload any necessary documents for the loan application, such as income proof and identification.
+5.Verify all details and confirm the loan application request.
+6.The application should provide a confirmation message along with an application reference number.
+7.The user should be informed of the loan processing status, and once approved, the funds should be disbursed."
+Banking Service Requests,Balance Inquiry Request,"1. Access the ""Balance Inquiry"" section.
+2. Select the account to inquire about.
+3. Initiate the balance inquiry.
+4. Review and confirm the inquiry.
+5. Receive the account balance details.","1.Navigate to the balance inquiry section within the banking application.
+2.Choose the specific account for which the user wants to check the balance.
+3.Initiate the inquiry to retrieve the account balance information.
+4.Verify the accuracy of the balance inquiry request and confirm it.
+5.The application should promptly display the current balance for the selected account."
+Banking Service Requests,Name Change Request,"1. Access the ""Name Change Request"" section.
+2. Provide the current account information.
+3. Specify the new name to be updated.
+4. Upload supporting documentation.
+5. Review and confirm the name change request.
+6. Receive confirmation of the name change request.
+7. Await processing and confirmation of the name change.","1.Navigate to the name change request section within the banking application.
+2.Enter the account details, including the current account holder name and account number.
+3.Enter the new name that should replace the current name on the account.
+4.Upload any necessary legal documents supporting the name change (e.g., marriage certificate, court order).
+5.Verify all details and confirm the request for the name change.
+6.The application should provide a confirmation message along with a reference number for the request.
+7.The user should receive confirmation once the name change is successfully processed and updated in the system."
+Banking Service Requests,Beneficiary Change Request,"1. Access the ""Beneficiary Change Request"" section.
+2. Select the account or policy for which the beneficiary information should be updated.
+3. Provide the current beneficiary details.
+4. Specify the new beneficiary details.
+5. Upload supporting documentation.
+6. Review and confirm the beneficiary change request.
+7. Receive confirmation of the beneficiary change request.
+8. Await processing and confirmation of the beneficiary change.","1.Navigate to the beneficiary change request section within the banking application.
+2.Choose the specific account or policy associated with the beneficiary change request.
+3.Enter the existing beneficiary information to confirm the requested change.
+4.Enter the updated beneficiary information, including name, relationship, and contact information.
+5.If required, upload any necessary documents supporting the beneficiary change request (e.g., legal documents, beneficiary designation forms).
+6.Verify all details and confirm the request for the beneficiary change.
+7.The application should provide a confirmation message along with a reference number for the request.
+8.The user should receive confirmation once the beneficiary change is successfully processed and updated in the system."
+Banking Service Requests,Overdraft Protection Request,"1. Access the ""Overdraft Protection"" section.
+2. Select the account for which overdraft protection should be updated.
+3. Choose the action (enable or disable overdraft protection).
+4. Confirm the overdraft protection request.
+5. Verify the status of overdraft protection.","1.Navigate to the overdraft protection request section within the banking application.
+2.Choose the specific account associated with the overdraft protection request.
+3.Select whether to enable or disable overdraft protection for the account.
+4.The request should be submitted, and a confirmation message provided.
+5.Ensure that the selected overdraft protection status (enabled or disabled) is accurately reflected for the account."
+Banking Service Requests,Credit Limit Increase Request,"1. Access the ""Credit Limit Increase"" section.
+2. Select the specific credit card for which the limit increase is desired.
+3. Specify the desired credit limit.
+4. Provide income and financial information.
+5. Review and confirm the limit increase request.
+6. Receive confirmation of the limit increase request.
+7. Await processing and approval of the limit increase.","1.Navigate to the credit limit increase request section within the banking application.
+2.Choose the credit card account for which the user wants to request a limit increase.
+3.Enter the new credit limit that the user wishes to have for their credit card.
+4.Enter any required financial information, such as income, employment details, or additional documents, as requested for the limit increase.
+5.Verify all details and confirm the request for the credit limit increase.
+6.The application should provide a confirmation message along with an application reference number.
+7.The user should be informed of the processing status, and if approved, the new credit limit should be updated on the credit card account."
+Banking Service Requests,Card Activation Request,"1. Access the ""Card Activation"" section.
+2. Select the card to be activated.
+3. Enter the card details.
+4. Confirm the card activation request.
+5. Receive confirmation of card activation.","1.Navigate to the card activation request section within the banking application.
+2.Choose the specific credit or debit card that the user needs to activate.
+3.Provide the required card information, such as the card number, expiration date, and CVV.
+4.The request should be submitted, and a confirmation message provided.
+5.The application should confirm the successful activation of the card and provide information on the card's status and usability."
+Banking Service Requests,Bill Payment and Transfer Requests,"1. Access the ""Bill Payment and Transfers"" section.
+2. Select the payment/transfer type.
+3. Choose the source account.
+4. Enter payee/recipient details.
+5. Specify the payment date.
+6. Review and confirm the request.
+7. Receive confirmation of the payment/transfer request.
+8. Monitor the status of the transaction.","1.Navigate to the section where bill payments and transfers can be initiated.
+2.Choose whether the user wants to make a bill payment or a fund transfer.
+3.Select the account from which the payment or transfer will be made.
+4.Provide the details of the payee or recipient, including account numbers, names, and payment/transfer amounts.
+5.Choose the date on which the payment or transfer should be processed, including any recurring payment options.
+6.Verify all details and confirm the bill payment or transfer request.
+7.The application should provide a confirmation message along with a reference number.
+8.Users should be able to check the status of the payment or transfer, ensuring it's processed correctly and promptly."
+Banking Service Requests,Stop Payment Request,"1. Access the ""Stop Payment Request"" section.
+2. Select the account associated with the payment.
+3. Specify the payment details.
+4. Indicate the reason for the stop payment.
+5. Confirm the stop payment request.
+6. Receive confirmation of the stop payment request.","1.Navigate to the stop payment request section within the banking application.
+2.Choose the account from which the payment was made or the check was drawn.
+3.Provide the check number, transaction details, or other payment-related information to identify the payment to be stopped.
+4.Select the reason for requesting the stop payment (e.g., lost check, error).
+5.The request should be submitted, and a confirmation message provided.
+6.The application should confirm the successful stop payment request and provide information on the request's status."
+Banking Service Requests,Statement Request,"1. Access the ""Statement Request"" section.
+2. Select the account for which the statement is needed.
+3. Specify the statement period.
+4. Choose the statement format (e.g., PDF, CSV).
+5. Confirm the statement request.
+6. Receive the requested statement.","1.Navigate to the statement request section within the banking application.
+2.Choose the specific bank account for which the user wants to request a statement.
+3.Indicate the period for which the statement is required, specifying start and end dates or other relevant details.
+4.Select the desired format for the statement, such as PDF, CSV, or other supported options.
+5.The request should be submitted, and a confirmation message provided.
+6.The user should receive the statement in the chosen format within the specified time frame."
+Banking Service Requests,Direct Deposit Setup Request,"1. Access the ""Direct Deposit Setup"" section.
+2. Select the account for which direct deposit should be set up.
+3. Provide employer or payer information.
+4. Specify the deposit amount and frequency.
+5. Review and confirm the direct deposit setup.
+6. Receive confirmation of the setup request.","1.Navigate to the direct deposit setup request section within the banking application.
+2.Choose the specific bank account for which direct deposit is being set up.
+3.Enter the necessary information, such as the employer's name, payer details, and any required routing and account numbers.
+4.Indicate the deposit amount and how often the direct deposit should be made (e.g., monthly, bi-weekly).
+5.Verify all details and confirm the request for direct deposit setup.
+6.The application should confirm the successful setup of direct deposit and provide relevant details."
+Banking Service Requests,Dispute Resolution Request,"1. Access the ""Dispute Resolution Request"" section.
+2. Select the transaction or charge in dispute.
+3. Provide details of the dispute.
+4. Confirm the dispute request.
+5. Receive confirmation of the dispute request.
+6. Monitor the status of the dispute resolution.","1.Navigate to the dispute resolution request section within the banking application.
+2.Choose the specific transaction or charge that the user wishes to dispute.
+3.Enter information explaining the reason for the dispute, including any supporting documents or evidence.
+4.The request should be submitted, and a confirmation message provided.
+5.The application should confirm the successful submission of the dispute and provide information on the dispute resolution process.
+6.Users should be able to track the progress of the dispute resolution and receive updates on its status."
+Banking Service Requests,Document Upload Request,"1. Access the ""Document Upload Request"" section.
+2. Select the request or purpose for document upload.
+3. Upload the required documents.
+4. Provide additional information if needed.
+5. Confirm the document upload request.
+6. Receive confirmation of the document upload request.","1.Navigate to the document upload request section within the banking application.
+2.Choose the specific reason or request for which the documents need to be uploaded (e.g., address verification, loan application).
+3.Select the documents from the device's storage and upload them to the application.
+4.Enter any additional details or context related to the uploaded documents.
+5.The request should be submitted, and a confirmation message provided.
+6.The application should confirm the successful submission of the document and provide information on the next steps."
+Banking Service Requests,Service Suspension or Reactivation Request,"1. Access the ""Service Suspension or Reactivation"" section.
+2. Select the specific service(s) to be suspended or reactivated.
+3. Specify the duration and effective date.
+4. Indicate the reason for the request.
+5. Confirm the suspension or reactivation request.
+6. Receive confirmation of the request.
+7. Monitor the status of the request.","1.Navigate to the service suspension or reactivation request section within the banking application.
+2.Choose the service(s) that the user wishes to suspend or reactivate (e.g., debit card, online banking).
+3.Provide details on the duration of the suspension/reactivation and the effective date.
+4.Select the reason for the request (e.g., lost card, temporary deactivation).
+5.The request should be submitted, and a confirmation message provided.
+6.The application should confirm the successful submission of the request and provide information on the service's status.
+7.Users should be able to track the progress of the service suspension or reactivation and receive updates on its status."
+Banking Service Requests,Secure Message Request,"1. Access the ""Secure Message"" section.
+2. Compose a new secure message or select an existing conversation.
+3. Enter the message content.
+4. Specify the priority or urgency (if applicable).
+5. Confirm the secure message request.
+6. Receive a confirmation of the message submission.
+7. Await a response from the bank.","1.Navigate to the secure message request section within the banking application.
+2.Choose to either compose a new secure message or continue an existing conversation with the bank.
+3.Compose the secure message, including the subject, message body, and any necessary attachments.
+4.Indicate the priority or urgency level for the message, if relevant.
+5.The message should be submitted, and a confirmation message provided.
+6.The application should confirm the successful submission of the secure message.
+7.Users should receive a response to the secure message from the bank within a reasonable time frame."
+Banking Service Requests,Escalation Request,"1. Access the ""Escalation Request"" section.
+2. Select the issue or concern to be escalated.
+3. Provide a clear explanation of the escalation.
+4. Specify the desired resolution or outcome.
+5. Confirm the escalation request.
+6. Receive confirmation of the escalation request.
+7. Monitor the status of the escalation.","1.Navigate to the escalation request section within the banking application.
+2.Choose the specific issue or concern that requires escalation, providing relevant details.
+3.Compose a message that clearly explains the issue, reasons for escalation, and desired outcome.
+4.Indicate the specific resolution or outcome expected from the escalation.
+5.The request should be submitted, and a confirmation message provided.
+6.The application should confirm the successful submission of the escalation request and provide information on the escalation process.
+7.Users should be able to track the progress of the escalation request and receive updates on its status."
+Incorrect Details,Submitting Request with Incorrect or Incomplete Information,"1. Access the ""Banking Service Request"" section.  
+2. Fill in the request form with incorrect or incomplete details.","The application should identify and prompt the user to correct or complete the required fields, preventing the submission until accurate and complete information is provided."
+Unavailable Service,Requesting an Unavailable Service,"1. Navigate to the ""Banking Service Request"" section.  
+2. Attempt to request a service that is not supported or unavailable within the application's offerings.","The application should display a notification or message stating that the requested service is not available or not supported, advising the user to choose from the available options or contact support for assistance."
+Service Interruption,Service Interruption during Request Submission,"1. Access the ""Banking Service Request"" section.  
+2. Initiate a service request and deliberately interrupt the network connection or simulate a system downtime.","The application should handle the interruption gracefully, displaying an error message that acknowledges the issue and advises the user to retry the request later when the system is available."
+Unsupported Format,Request Submission with Unsupported File Format,"1. Access the ""Banking Service Request"" section.  
+2. Attempt to attach a file in an unsupported format (e.g., .exe, .bat, etc.) to the service request.","The application should notify the user that the file format is unsupported and prompt them to upload files only in accepted formats (e.g., .pdf, .docx, .jpg, etc.)"
+Unauthorized Access,Unauthorized Attempt to Access or Submit a Service Request,"1. Access the ""Banking Service Request"" section without proper authorization (e.g., accessing another user's account).","The application should restrict unauthorized access, either by redirecting to the appropriate permissions page or displaying an access denied message with instructions to log in with the correct credentials."
+Account Preferences,Change Account Password,"1. Navigate to the ""Change Password"" or ""Security Settings"" section. 
+2. Enter the current password. 
+3. Set a new password as per the bank's password policy. 4. Confirm the new password. 
+5. Save the changes.","The account password is successfully changed, and the user can log in with the new password for enhanced security."
+Account Preferences,Update Contact Information,"1. Navigate to the ""Contact Information"" or ""Profile Settings"" section. 
+2. Update contact details (e.g., phone number, email address). 
+3. Save the changes.","Contact information is successfully updated, and the bank has the most recent contact details for the user."
+Account Preferences,Set Communication Preferences,"1. Navigate to the ""Communication Preferences"" or ""Notification Settings"" section. 
+2. Choose communication channels (e.g., email, SMS, app notifications). 
+3. Define communication preferences (e.g., transaction alerts, promotions). 
+4. Save the preferences.","Communication preferences are successfully set, and the user receives notifications and alerts based on their choices."
+Account Preferences,Change Language Preference,"1. Navigate to the ""Language Preferences"" or ""Language Settings"" section. 
+2. Select the preferred language from the available options. 
+3. Save the language preference.",The application's language is successfully changed to the selected language for a more user-friendly experience.
+Account Preferences,Opt-In or Opt-Out of Marketing,"1. Navigate to the ""Marketing Preferences"" or ""Marketing Settings"" section. 
+2. Opt-in or opt-out of receiving promotional offers and marketing materials. 
+3. Save the preferences.","Marketing preferences are successfully updated, and the user receives or does not receive marketing materials as chosen."
+Account Preferences,Set Transaction Limits,"1. Navigate to the ""Transaction Limits"" or ""Security Settings"" section. 
+2. Define limits for transactions (e.g., daily withdrawal limit, fund transfer limit). 
+3. Save the new transaction limits.","The new transaction limits are successfully set, providing added security for the account."
+Account Preferences,Manage Linked Accounts,"1. Access the ""Linked Accounts"" or ""Account Connections"" section. 2. Add, edit, or remove linked accounts (e.g., external bank accounts). 3. Save the changes.","Linked accounts are managed as per the user's instructions, and the list of connected accounts is updated accordingly."
+Account Preferences,Change Security Questions,"1. Navigate to the ""Security Questions"" or ""Security Settings"" section. 
+2. Update security questions and answers. 
+3. Save the changes.","Security questions and answers are successfully changed, enhancing the account's security and recovery options."
+Account Preferences,Enable Two-Factor Authentication,"1. Access the ""Two-Factor Authentication"" or ""Security Settings"" section. 
+2. Enable two-factor authentication (e.g., mobile app authenticator, SMS codes). 
+3. Follow the setup process. 4. Confirm the activation.","Two-factor authentication is successfully enabled, providing an extra layer of security for the account."
+Account Preferences,Change Language Preference,"1. Visit the ""Language Preferences"" or ""Language Settings"" section. 
+2. Select the preferred language from the available options. 
+3. Save the language preference.",The application's language is successfully changed to the selected language for a more user-friendly experience.
+Concurrent Access,Access Account from Multiple Devices,"1. Log in to the account on the primary device. 
+2. Log in to the account on a secondary device (e.g., smartphone or tablet). 
+3. Perform transactions or account operations on both devices simultaneously.",The user can access the account and perform transactions simultaneously from multiple devices without any issues or errors.
+Concurrent Access,Access Account while on a Call,"1. Receive or make a phone call while logged into the account on a mobile device or computer. 
+2. Continue to access the account and perform transactions during the call.",The user can seamlessly access the account and conduct transactions while on a call without any disruptions or issues.
+Concurrent Access,Access Account from Multiple Browsers,"1. Log in to the account using one web browser (e.g., Google Chrome). 2. Open another web browser (e.g., Mozilla Firefox) and log in to the account. 
+3. Perform transactions or account operations in both browsers simultaneously.",The user can access the account and conduct transactions simultaneously from multiple web browsers without any conflicts or errors.
+Concurrent Access,Access Account via Mobile App and Web,"1. Log in to the account using the mobile app. 
+2. Open a web browser and log in to the account through the bank's website. 
+3. Perform transactions or account operations using both the app and web access simultaneously.",The user can access the account and conduct transactions simultaneously using both the mobile app and web access without any issues or discrepancies.
+Multiple Device Access,Access Account from Two Mobile Devices,"1. Log in to the account on the primary mobile device (e.g., smartphone). 
+2. Log in to the account on the secondary mobile device (e.g., tablet or another smartphone). 
+3. Perform transactions or account operations on both devices simultaneously.",The user can access the account and perform transactions simultaneously from two mobile devices without any issues or errors.
+Multiple Device Access,Access Account from Mobile and Desktop,"1. Log in to the account using the mobile app on the mobile device. 
+2. Open a web browser on the desktop computer and log in to the account through the bank's website. 
+3. Perform transactions or account operations using both the mobile app and desktop web access simultaneously.",The user can access the account and conduct transactions simultaneously using both the mobile app and desktop web access without any issues or discrepancies.
+Suspicious Login Activity,Unusual Login Location Detection,"1. Log in to the account from a different location (e.g., a different city or country). 2. Perform standard login steps.",The system detects the unusual login location and prompts the user to verify their identity or change their password for added security.
+Suspicious Login Activity,Multiple Failed Login Attempts,"1. Enter incorrect login credentials multiple times. 
+2. Continue this pattern for a defined number of attempts.","After the defined number of failed login attempts, the user is temporarily locked out for security purposes and must follow account recovery procedures."
+Suspicious Login Activity,Rapid Login Attempts,"1. Attempt to log in multiple times in quick succession. 
+2. Perform standard login steps.",The system detects rapid login attempts and may temporarily lock the account or prompt the user for additional security measures.
+Suspicious Login Activity,Simultaneous Login from Multiple Devices,"1. Log in to the account from one device (e.g., a computer). 
+2. Log in to the account from another device (e.g., a smartphone) at the same time. 
+3. Perform standard login steps on both devices.",The system allows simultaneous logins but monitors and alerts the user about the multiple active sessions for their awareness.
+Suspicious Login Activity,Abnormal Login Time,"1. Log in to the account at an unusual time (e.g., 3:00 AM).
+2. Perform standard login steps.",The system allows the login but may send an alert or notification to the user about the unusual login time for their awareness.
+Contact Us,Access Contact Information,"1. Navigate to the ""Contact Us"" or ""Customer Support"" section. 
+2. View the contact information provided, including phone numbers and email addresses.","The user can easily access the bank's contact information, enabling them to reach out for assistance or inquiries."
+Contact Us,Send a Contact Form,"1. Access the ""Contact Us"" or ""Support"" section. 
+2. Fill out the contact form with relevant information (name, email, subject, message). 
+3. Submit the form.","The contact form is successfully submitted, and the user receives a confirmation message. The bank is notified of the user's inquiry."
+Contact Us,Check Support Hours,"1. Navigate to the ""Contact Us"" or ""Support"" section. 
+2. Review the displayed support hours (e.g., business hours, weekends).","The user can view the bank's support hours, allowing them to know when assistance is available."
+Contact Us,View FAQs,"1. Access the ""FAQs"" or ""Help Center"" section. 
+2. Browse the list of frequently asked questions and their answers.",The user can find answers to common questions and gain information without the need to contact support.
+Contact Us,Request a Callback,"1. Access the ""Request a Callback"" or ""Call Me Back"" option. 
+2. Fill out the callback request form with details (name, phone number, preferred time). 
+3. Submit the request.","The callback request is successfully submitted, and the user receives a confirmation message. A bank representative will call back as requested."
+Interest Calculations,View Interest Details,"1. Access the ""Interest Details"" or ""Account Summary"" section.
+ 2. View the interest rate and calculation details.","The user can view the interest rate, calculation method, and interest accrued on the account, providing transparency on interest earnings."
+Interest Calculations,Calculate Expected Interest,"1. Navigate to the ""Interest Calculator"" or ""Expected Earnings"" tool. 
+2. Enter the principal amount and select the calculation period. 
+3. Initiate the calculation.","The calculated expected interest earnings are displayed, based on the provided principal and calculation period."
+Interest Calculations,Verify Interest Crediting,"1. Access the ""Transaction History"" or ""Account Statements"" section. 
+2. Locate and review the interest crediting transaction.","The interest crediting transaction is visible in the account history, confirming that interest has been credited as per the schedule."
+Interest Calculations,Update Interest Preferences,"1. Navigate to the ""Interest Preferences"" or ""Interest Settings"" section. 2. Adjust interest calculation preferences (e.g., frequency, reinvestment). 3. Save the preferences.","The user's interest calculation preferences are successfully updated, affecting future interest crediting and earnings."
+Interest Calculations,Verify Accurate Interest Earnings,"1. Access the ""Account Statements"" or ""Transaction History"" section. 
+2. Review the interest earnings over a specific time frame. 
+3. Cross-verify with the calculated interest.","The interest earnings displayed in the account history match the calculated interest, ensuring accurate"
+Loan Section,Loan Application Submission,"1.Navigate to the URL of your bank's official website.
+2.Click on ""Login"" or ""Sign In"" button in bank's website,. 
+3.Enter your registered username or user ID in the provided field.
+4.Enter Password in provided field.
+5.Enter OTP sent to the register mobile number in provided field.
+6.Click the ""Login"" or ""Submit"" button to initiate the login process.
+7. Navigate to the ""Loan"" or ""Apply for a Loan"" section. 
+8. Fill in the loan application form with the required information. 
+9. Submit the application.","The loan application is successfully submitted, and the user receives a confirmation message or reference number."
+Loan Section,Loan Application Status Check,"1.Navigate to the ""Loan"" or ""Application Status"" section. 
+2. Enter the application reference number or details. 
+3. Check the status.","The user can view the current status of their loan application, whether it's pending, approved, or declined."
+Loan Section,Loan Repayment Scheduling,"1. Log in to the banking application. 
+2. Navigate to the ""Loan"" or ""Repayment"" section. 
+3. Choose a repayment frequency (e.g., monthly). 
+4. Select the repayment start date.","The user can schedule loan repayments according to their preferences, and the system records the scheduled payments."
+Loan Section,Early Loan Repayment,"1.Navigate to the ""Loan"" or ""Repayment"" section. 
+2. Choose the option for early repayment. 
+3. Follow the repayment process.","The user successfully repays the loan before the scheduled date, and the system updates the loan status accordingly."
+Loan Section,Loan Amortization Table,"1.Navigate to the ""Loan"" or ""Amortization"" section. 
+2. Access the amortization table for the loan.","The user can view a detailed amortization table that provides information on each installment, including principal and interest amounts."
+Loan Section,Loan Calculators,"1. Navigate to the ""Loan"" or ""Loan Calculator"" section. 
+2. Input loan details (e.g., amount, interest rate, term). 
+3. Calculate the estimated loan terms.","The user receives estimated loan terms, including monthly payments, interest amount, and total repayment, helping them make informed decisions."
+Loan Section,View Loan Offerings,"1.Navigate to the ""Loans"" or ""Loan Offerings"" section. 
+2. Browse the available loan types.","The user can view a list of available loan types, including details such as interest rates, terms, and eligibility criteria."
+Loan Section,Loan Eligibility Check,"1.Navigate to the ""Loans"" or ""Eligibility Check"" section. 
+2. Enter personal and financial details. 
+3. Check eligibility.",The user receives information on their eligibility for specific loan types and the maximum loan amount they may qualify for.
+Loan Section,Loan Comparison,"1.Navigate to the ""Loans"" or ""Loan Comparison"" section. 
+2. Select two or more loan types. 
+3. Compare terms, interest rates, and fees.","The user can compare different loans side by side, making it easier to make an informed decision about the most suitable loan."
+Loan Section,Loan Features Details,"1.Navigate to the ""Loans"" or ""Loan Details"" section. 
+2. Choose a specific loan type. 
+3. Review detailed information.","The user can access comprehensive information about the selected loan type, including terms, repayment options, and any special features."
+Loan Section,Apply for Loan with Insufficient Credit Score,"1. In the ""Loan"" section, select ""Apply for Loan."" 
+2. Complete the loan application form. 
+3. Submit the application.","The application informs the user that their credit score is insufficient, and the loan application is declined."
+Loan Section,Apply for Loan with Inadequate Income,"1. In the ""Loan"" section, choose ""Apply for Loan."" 
+2. Complete the loan application form, including income details. 
+3. Submit the application.","The application informs the user that their income is insufficient to qualify for the loan, and the application is declined."
+Loan Section,Apply for Loan Beyond Eligibility,"1. In the ""Loan"" section, select ""Apply for Loan."" 
+2. Complete the loan application form with an amount exceeding their eligible loan amount. 
+3. Submit the application.","The application informs the user that the loan amount exceeds their eligibility, and the application is declined."
+Loan Section,Incomplete Loan Application,"1. In the ""Loan"" section, choose ""Apply for Loan."" 
+2. Fill in only some of the required fields in the loan application. 
+3. Submit the incomplete application.",The application informs the user that the loan application is incomplete and prompts them to fill in all required fields.
+Loan Section,Application Without Necessary Documents,"1. In the ""Loan"" section, select ""Apply for Loan."" 
+2. Complete the loan application but do not attach required documents. 
+3. Submit the application.",The application informs the user that necessary documents are missing and prompts them to upload the required documents.
+Types of Loan,Home Loan,"1. Log in to the banking application. 
+2. Navigate to the ""Loans"" section. 
+3. Select ""Home Loan.""","The user is presented with information about home loan options offered by the bank, including interest rates, eligibility criteria, and application steps."
+Types of Loan,Personal Loan,"1. Log in to the banking application. 
+2. Navigate to the ""Loans"" section. 
+3. Select ""Personal Loan.""","The user is provided with details on personal loan products, interest rates, loan amounts, and the application process."
+Types of Loan,Car Loan,"1. Log in to the banking application. 
+2. Navigate to the ""Loans"" section. 
+3. Select ""Car Loan.""","The user is shown information about car loans, including terms, interest rates, and steps to apply for a car loan."
+Types of Loan,Education Loan,"1. Log in to the banking application. 
+2. Navigate to the ""Loans"" section. 
+3. Select ""Education Loan.""","The user can access details on education loans, including eligibility criteria, repayment options, and the application process."
+Types of Loan,Business Loan,"1. Log in to the banking application. 
+2. Navigate to the ""Loans"" section. 
+3. Select ""Business Loan.""","The user can explore business loan offerings, including loan amounts, interest rates, and information on how to apply for a business loan."
+Types of Loan,Gold Loan,"1. Log in to the banking application. 
+2. Navigate to the ""Loans"" section. 
+3. Select ""Gold Loan.""","The user can view information about gold loans, including loan-to-value ratios, interest rates, and the gold loan application process."
+Types of Loan,Mortgage Loan,"1. Log in to the banking application. 
+2. Navigate to the ""Loans"" section. 
+3. Select ""Mortgage Loan.""","The user is presented with details about mortgage loans, such as loan terms, interest rates, and the mortgage application procedure."
+Types of Loan,Personal Line of Credit,"1. Log in to the banking application. 
+2. Navigate to the ""Loans"" section. 
+3. Select ""Personal Line of Credit.""","The user can explore information about personal lines of credit, including credit limits, interest rates, and steps to apply for a line of credit."
+Flexipay,Access Flexipay,"1. Navigate to the ""Flexipay"" section.",The user can access the Flexipay feature within the application.
+Flexipay,Check Eligibility,"1. Access the ""Flexipay"" section. 
+2. Select ""Check Eligibility."" 
+3. Provide required details such as income, loan amount, and repayment period.",The user receives an eligibility assessment indicating whether they qualify for Flexipay and the applicable terms.
+Flexipay,Calculate EMI,"1. Access the ""Flexipay"" section. 
+2. Choose ""Calculate EMI."" 
+3. Enter the loan amount, interest rate, and loan tenure.",The application provides the Equated Monthly Installment (EMI) amount based on the user's input.
+Flexipay,Apply for Flexipay,"1. Access the ""Flexipay"" section. 
+2. Select ""Apply for Flexipay."" 
+3. Complete the application form, including personal and loan details. 
+4. Submit the application.","The user's Flexipay application is submitted for processing, and they receive a confirmation with further instructions."
+Flexipay,Manage Flexipay,"1. Access the ""Flexipay"" section. 
+2. Choose ""Manage Flexipay."" 
+3. View and manage active Flexipay plans, including modifying repayment options or closing the Flexipay plan.",The user can view and make changes to their existing Flexipay plans as needed.
+Flexipay,Payment Scheduling,"1. Access the ""Flexipay"" section. 
+2. Select a specific Flexipay plan. 
+3. Schedule payments by choosing the payment dates and amounts.",The user can set up payment schedules for their Flexipay plan and receives confirmation of scheduled payments.
+Flexipay,Request Flexipay with Insufficient Credit Limit,"1. In the ""Flexipay"" section, choose ""Request Flexipay."" 
+2. Select the credit card for which you want Flexipay. 
+3. Enter the Flexipay amount exceeding the available credit limit. 
+4. Submit the request.","The application informs the user that their credit limit is insufficient for the Flexipay amount, and the request is declined."
+Flexipay,Request Flexipay for Ineligible Transactions,"1. In the ""Flexipay"" section, select ""Request Flexipay."" 
+2. Choose a credit card. 
+3. Enter an amount for an ineligible transaction. 
+4. Submit the request.","The application informs the user that the selected transaction is ineligible for Flexipay, and the request is declined."
+Flexipay,Request Flexipay with Expired Credit Card,"1. In the ""Flexipay"" section, choose ""Request Flexipay."" 
+2. Select an expired credit card. 
+3. Enter the Flexipay amount. 
+4. Submit the request.","The application informs the user that the credit card has expired, and the request is declined."
+Flexipay,Submit Incomplete Flexipay Request,"1. In the ""Flexipay"" section, select ""Request Flexipay."" 
+2. Choose a credit card. 
+3. Enter the Flexipay amount but leave other required fields blank. 
+4. Submit the incomplete request.",The application prompts the user to fill in all required information and resubmit the Flexipay request.
+Credit Card,Credit Card Application,"1.Navigate to the URL of your bank's official website.
+2.Click on ""Login"" or ""Sign In"" button in bank's website,. 
+3.Enter your registered username or user ID in the provided field.
+4.Enter Password in provided field.
+5.Enter OTP sent to the register mobile number in provided field.
+6.Click the ""Login"" or ""Submit"" button to initiate the login process.
+7. Navigate to the ""Credit Cards"" or ""Apply for a Credit Card"" section. 
+8. Fill in the credit card application form with the required information. 
+9. Submit the application.","The credit card application is successfully submitted, and the user receives a confirmation message or reference number."
+Credit Card,Credit Card Approval Status,"1.Navigate to the ""Credit Cards"" or ""Application Status"" section. 
+2.Enter the application reference number or details. 
+3.Check the status.","The user can view the current status of their credit card application, whether it's pending, approved, or declined."
+Credit Card,Credit Card Activation,"1. Navigate to the ""Credit Cards"" or ""Activate Credit Card"" section. 
+2. Enter the card details and the activation code. 
+3. Activate the card.","The user's credit card is successfully activated, and they can start using it for transactions."
+Credit Card,Credit Card Statement Access,"1. Navigate to the ""Credit Cards"" or ""Credit Card Statements"" section. 
+2. Select the desired statement period. 
+3. Access the statement.","The user can view and download their credit card statements for the selected period, including transaction details."
+Credit Card,Credit Card Bill Payment,"1. Navigate to the ""Credit Cards"" or ""Pay Credit Card Bill"" section. 
+2. Select the credit card account. 
+3. Enter the payment amount and source. 
+4. Initiate the payment.","The user can successfully make a credit card payment, and the payment is reflected in their credit card account."
+Credit Offers,View Credit Offers,"1. Navigate to the ""Credit Offers"" or ""Credit Card Promotions"" section. 
+2. Browse the available credit card offers.","The user can view a list of available credit card offers, including details such as benefits, features, and eligibility criteria."
+Credit Offers,Apply for a Card,"1. Navigate to the ""Credit Offers"" or ""Apply for a Credit Card"" section. 
+2. Choose a credit card offer. 
+3. Fill in the credit card application form. 
+4. Submit the application.","The credit card application is successfully submitted, and the user receives a confirmation message or reference number."
+Credit Offers,Check Eligibility,"1. Navigate to the ""Credit Offers"" or ""Eligibility Check"" section. 
+2. Select the offer of interest. 
+3. Enter personal and financial details. 
+4. Check eligibility.",The user receives information on their eligibility for the specific credit card offer and the maximum credit limit they may qualify for.
+Credit Offers,Compare Offers,"1. Navigate to the ""Credit Offers"" or ""Offer Comparison"" section. 
+2. Select two or more credit card offers. 
+3. Compare features, fees, and benefits.","The user can compare different credit card offers side by side, making it easier to make an informed decision about the most suitable offer."
+Credit Score,View Credit Score,"1. Navigate to the ""Credit Score"" or ""Check Your Credit Score"" section.","The user can view their credit score, which should be accurate and up-to-date based on information from credit bureaus."
+Credit Score,Credit Score History,"1. Navigate to the ""Credit Score"" or ""Credit Score History"" section.","The user can access a historical record of their credit scores, showing trends and changes over time."
+Credit Score,Credit Score Alerts,"1. Navigate to the ""Credit Score"" or ""Alerts and Notifications"" section. 
+2. Enable credit score alerts and set preferred notification methods.","The user receives alerts when there are significant changes in their credit score, helping them stay informed about their credit health."
+Credit Score,Improve Credit Score,"1. Navigate to the ""Credit Score"" or ""Improving Your Credit"" section. 
+2. Review tips and recommendations for improving credit.","The user can access valuable information and guidance on how to improve their credit score, including actions to take and financial habits to develop."
+Credit Card Rewards,View Rewards Summary,"1. Navigate to the ""Credit Card Rewards"" or ""Rewards Summary"" section.","The user can access a summary of their credit card rewards, including available points, redemption options, and expiry dates."
+Credit Card Rewards,Rewards Transaction History,"1. Navigate to the ""Credit Card Rewards"" or ""Transaction History"" section. 
+3. Filter the results by specific dates or criteria, if available.","The user can view a detailed transaction history related to their credit card rewards, including earned points, redeemed rewards, and the date of each transaction."
+Credit Card Rewards,Redeem Rewards,"1. Navigate to the ""Credit Card Rewards"" or ""Redeem Rewards"" section. 
+3. Browse available redemption options. 
+4. Select an item or benefit to redeem.",The user can successfully redeem their credit card rewards for the chosen item or benefit. The application should deduct the appropriate points and provide instructions for claiming the reward.
+Credit Card Rewards,Set Rewards Notifications,"1.Navigate to the ""Credit Card Rewards"" or ""Notifications"" section. 3. Set preferences for receiving rewards-related notifications (e.g., points earned, redemption opportunities).","The user receives notifications when relevant changes occur in their credit card rewards, allowing them to stay informed about earning opportunities and available benefits."
+Credit Card Rewards,Check Rewards Expiry,"1. Navigate to the ""Credit Card Rewards"" or ""Rewards Expiry"" section. 
+3. Review the expiry dates of earned points.","The user can easily determine when their credit card rewards points are set to expire, ensuring they use them before the expiry date to maximize their benefits."
+Credit Card Rewards,Earn Bonus Rewards,"1.Navigate to the ""Credit Card Rewards"" or ""Earn Bonus Rewards"" section. 
+2. Review available offers or promotions. 
+3. Make eligible purchases or fulfill offer requirements.","The user earns bonus rewards as per the terms and conditions of the specific offers or promotions, adding extra value to their credit card rewards program."
+Credit Card Rewards,Report Rewards Issues,"1. Navigate to the ""Credit Card Rewards"" or ""Customer Support"" section. 
+2. File a report or contact customer support with details about the issue.",The user receives prompt assistance in resolving any problems or discrepancies related to their credit card rewards. The application's support team addresses the reported issue effectively.
+Credit Card,Attempting Unauthorized Credit Card Activation,"1. In the ""Credit Cards"" section, select ""Activate Credit Card."" 
+2. Choose a credit card not associated with the user's account. 
+3. Enter the activation details. 
+4. Attempt to activate the unauthorized card.","The application informs the user that they are attempting to activate a card not associated with their account, and the activation is declined."
+Credit Card,Applying for Credit Limit Increase with Delinquent Account,"1. In the ""Credit Cards"" section, choose ""Apply for Credit Limit Increase."" 
+2. Select the credit card for which the user wants to increase the credit limit. 
+3. Enter the required details for the credit limit increase. 
+4. Submit the request.","The application informs the user that credit limit increase is not available due to their delinquent account, and the request is declined."
+Credit Card,Requesting Duplicate Credit Card,"1. In the ""Credit Cards"" section, select ""Request Duplicate Card."" 
+2. Choose a credit card. 
+3. Provide the required information for a duplicate card. 
+4. Submit the request.","The application informs the user that a duplicate card for the selected credit card is not permitted, and the request is declined."
+Credit Card,Applying for a Credit Card with Insufficient Income,"1. In the ""Credit Cards"" section, select ""Apply for a New Credit Card."" 
+2. Fill out the credit card application with income details below the minimum income requirement. 
+3. Submit the application.","The application informs the user that their income is insufficient to qualify for a new credit card, and the application is declined."
+Card Activation,Activate Food Card,"1. Navigate to the Food Card section in the banking application.
+2. Select the ""Activate Card"" option.
+3. Enter the card number, expiry date, CVV, and other required information.
+4. Confirm activation.","1.The system displays options related to the Food Card.
+2.The system prompts for necessary details to activate the card.
+3.The system validates the provided details and activates the card.
+4.The system acknowledges successful activation and displays a confirmation message."
+Card Activation,Activation with Incorrect Details,"1. Navigate to the Food Card section.
+2. Select ""Activate Card"".
+3. Enter incorrect card details (e.g., wrong card number, expired date).","1.The system displays options related to the Food Card.
+2.The system prompts for necessary details to activate the card.
+3.The system detects the incorrect details and prevents activation, displaying an error message."
+Card Usage,Make Purchase,"1. Use the Food Card for a purchase at a food outlet or online food store.
+2. Verify the transaction history.","1.The transaction gets approved, and the amount is deducted from the card balance.
+2.The system shows the recent transaction with correct details and the updated balance."
+Card Usage,Attempt to Use Deactivated Card,1. Use the Food Card for a purchase.,"The transaction gets declined, and an error message appears."
+Card Management,Check Card Balance,"1. Access the Food Card section.
+2. Select ""Check Balance"".","1.The system displays card-related options.
+2.The system retrieves and displays the current balance on the card."
+Card Management,Block Lost Card,"1. Access the Food Card section.
+2. Select ""Block Card"" and specify the reason (lost or stolen).","1.The system displays card-related options.
+2.The system blocks the card to prevent unauthorized usage and displays a confirmation message."
+Card Management,Request Card Replacement,"1. Access the Food Card section.
+2. Select ""Request Replacement Card"".
+3. Fill in required information and confirm the request.","1.The system displays card-related options.
+2.The system prompts for necessary details for card replacement.
+3.The system acknowledges the request and initiates the replacement process."
+Invalid Activation,Activation with Incorrect Details,"1. Access the Food Card section.
+2. Select ""Activate Card"".
+3. Enter incorrect card details (e.g., wrong card number, expired date).","1.The system displays options for card activation.
+2.The system prompts for necessary card details.
+3.The system detects the incorrect details and prevents activation, showing an error message."
+Attempt to Use Inactive Card,Use Inactive Card,1. Use the Food Card for a purchase.,"The transaction gets declined, and an error message appears indicating the card is inactive."
+Depleted Card Usage,Attempt to Use Depleted Card,1. Use the Food Card for a purchase.,"The transaction gets declined due to insufficient funds, and an error message appears."
+Card Management,Block Already Blocked Card,"1. Access the Food Card section.
+2. Select ""Block Card"".","1.The system displays card-related options.
+2.The system notifies that the card is already blocked and prevents duplicate blocking."
+Card Management,Request Replacement for Active Card,"1. Access the Food Card section.
+2. Select ""Request Replacement Card"".","1.The system displays card-related options.
+2.The system prevents the request for card replacement for an active card and displays an error message."
+Card Activation,Activate Prepaid Card,"1. Access the Prepaid Card section in the banking application.
+2. Choose the ""Activate Card"" option.
+3. Enter valid card details and confirm activation.","1.The system displays options for card activation.
+2.The system prompts for necessary card details (card number, expiration date, CVV).
+3.The system validates the provided details and activates the card, displaying a confirmation message."
+Card Activation,Activation with Incorrect Details,"1. Access the Prepaid Card section.
+2. Select ""Activate Card"".
+3. Enter incorrect card details (e.g., invalid card number, expired date).","1.The system displays options for card activation.
+2.The system prompts for necessary card details.
+3.The system detects the incorrect details and prevents activation, showing an error message."
+Card Usage,Make Purchase,"1. Use the Prepaid Card for a purchase at a store or online.
+2. Verify the transaction history.","1.The transaction gets approved, and the amount is deducted from the card balance.
+2.The system shows the recent transaction with correct details and the updated balance."
+Card Usage,Attempt to Use Depleted Card,1. Use the Prepaid Card for a purchase.,"The transaction gets declined due to insufficient funds, and an error message appears."
+Card Management,Check Card Balance,"1. Access the Prepaid Card section.
+2. Select ""Check Balance"".","1.The system displays card-related options.
+2.The system retrieves and displays the current card balance."
+Card Management,Block Lost Card,"1. Access the Prepaid Card section.
+2. Select ""Block Card"" and specify the reason (lost or stolen).","1.The system displays card-related options.
+2.The system blocks the card to prevent unauthorized usage and displays a confirmation message."
+Card Management,Request Card Replacement,"1. Access the Prepaid Card section.
+2. Select ""Request Replacement Card"".
+3. Fill in required information and confirm the request.","1.The system displays card-related options.
+2.The system prompts for necessary details for card replacement.
+3.The system acknowledges the request and initiates the replacement process."
+Invalid Activation,Activation with Incorrect Details,"1. Access the Prepaid Card section.
+2. Select ""Activate Card"".
+3. Enter incorrect card details (e.g., invalid card number, expired date).","1.The system displays options for card activation.
+2.The system prompts for necessary card details.
+3.The system detects the incorrect details and prevents activation, showing an error message."
+Depleted Card Usage,Attempt to Use Depleted Card,1. Use the Prepaid Card for a purchase.,"The transaction gets declined due to insufficient funds, and an error message appears."
+Depleted Card Usage,Negative Balance Usage,1. Use the Prepaid Card for a purchase.,"The transaction gets declined due to a negative balance, and an error message appears."
+Card Management,Block Already Blocked Card,"1. Access the Prepaid Card section.
+2. Select ""Block Card"".","1.The system displays card-related options.
+2.The system notifies that the card is already blocked and prevents duplicate blocking."
+Card Management,Request Replacement for Active Card,"1. Access the Prepaid Card section.
+2. Select ""Request Replacement Card"".","1.The system displays card-related options.
+2.The system prevents the request for card replacement for an active card and displays an error message."
+Card Activation,Activate Forex Card,"1. Go to the ""Forex Card"" section in the banking application.
+2. Select ""Activate Card"".
+3. Enter valid card details and confirm activation.","1.The system displays options for card activation.
+2.The system prompts for necessary card details (card number, expiration date, CVV).
+3.The system validates the provided details and activates the card, displaying a confirmation message."
+Card Activation,Activation with Incorrect Details,"1. Go to the ""Forex Card"" section.
+2. Select ""Activate Card"".
+3. Enter incorrect card details (e.g., wrong card number, expired date).","1.The system displays options for card activation.
+2.The system prompts for necessary card details.
+3.The system detects the incorrect details and prevents activation, showing an error message."
+Card Management,Make International Transaction,"1. Use the Forex Card for an international transaction.
+2. Verify the transaction history.","1.The transaction gets approved, and the amount is 2.deducted from the card balance.
+The system shows the recent transaction with correct details and the updated balance."
+Card Management,Attempt to Use Depleted Card,1. Use the Forex Card for an international transaction.,"The transaction gets declined due to insufficient funds, and an error message appears."
+Card Management,Check Card Balance,"1. Access the Forex Card section.
+2. Select ""Check Balance"".","1.The system displays card-related options.
+2.The system retrieves and displays the current card balance."
+Card Management,Block Lost Card,"1. Access the Forex Card section.
+2. Select ""Block Card"" and specify the reason (lost or stolen).","1.The system displays card-related options.
+2.The system blocks the card to prevent unauthorized usage and displays a confirmation message."
+Card Management,Request Card Replacement,"1. Access the Forex Card section.
+2. Select ""Request Replacement Card"".
+3. Fill in required information and confirm the request.","1.The system displays card-related options.
+2.The system prompts for necessary details for card replacement.
+3.The system acknowledges the request and initiates the replacement process."
+Invalid Activation,Activation with Incorrect Details,"1. Access the Forex Card section.
+2. Select ""Activate Card"".
+3. Enter incorrect card details (e.g., invalid card number, expired date).","1.The system displays options for card activation.
+2.The system prompts for necessary card details.
+3.The system detects the incorrect details and prevents activation, showing an error message."
+Attempt to Use Inactive Card,Use Inactive Forex Card,1. Use the Forex Card for an international transaction.,"The transaction gets declined, and an error message appears indicating the card is inactive."
+Depleted Card Usage,Attempt to Use Depleted Card,1. Use the Forex Card for an international transaction.,"The transaction gets declined due to insufficient funds, and an error message appears."
+Card Management,Block Already Blocked Card,"1. Access the Forex Card section.
+2. Select ""Block Card"".","1.The system displays card-related options.
+2.The system notifies that the card is already blocked and prevents duplicate blocking."
+,Request Replacement for Active Card,"1. Access the Forex Card section.
+2. Select ""Request Replacement Card"".","1.The system displays card-related options.
+2.The system prevents the request for card replacement for an active card and displays an error message."
+Card Activation,Activate Transit Card,"1. Go to the ""Transit Card"" section in the banking application.
+2. Select ""Activate Card"".
+3. Enter valid card details and confirm activation.","1.The system displays options for card activation.
+2.The system prompts for necessary card details (card number, expiration date, CVV).
+3.The system validates the provided details and activates the card, displaying a confirmation message."
+,Activation with Incorrect Details,"1. Go to the ""Transit Card"" section.
+2. Select ""Activate Card"".
+3. Enter incorrect card details (e.g., wrong card number, expired date).","1.The system displays options for card activation.
+2.The system prompts for necessary card details.
+3.The system detects the incorrect details and prevents activation, showing an error message."
+Card Usage,Use Transit Card for Travel,"1. Use the Transit Card for travel (e.g., public transportation).
+2. Verify transaction history.","1.The card gets successfully accepted for travel, deducting the fare amount.
+2.The system displays the recent transaction with correct details and the updated card balance."
+,Attempt to Use Inactive Card,1. Use the Transit Card for travel.,"The transaction gets declined, and an error message appears indicating the card is inactive."
+Card Management,Check Card Balance,"1. Access the Transit Card section.
+2. Select ""Check Balance"".","1.The system displays card-related options.
+2.The system retrieves and displays the current card balance."
+,Block Lost Card,"1. Access the Transit Card section.
+2. Select ""Block Card"" and specify the reason (lost or stolen).","1.The system displays card-related options.
+2.The system blocks the card to prevent unauthorized usage and displays a confirmation message."
+,Request Card Replacement,"1. Access the Transit Card section.
+2. Select ""Request Replacement Card"".
+3. Fill in required information and confirm the request.","1.The system displays card-related options.
+2.The system prompts for necessary details for card replacement.
+3.The system acknowledges the request and initiates the replacement process."
+Invalid Activation,Activation with Incorrect Details,"1. Go to the ""Transit Card"" section.
+2. Select ""Activate Card"".
+3. Enter incorrect card details (e.g., invalid card number, expired date).","1.The system displays options for card activation.
+2.The system prompts for necessary card details.
+3.The system detects the incorrect details and prevents activation, showing an error message."
+Attempt to Use Inactive Card,Use Inactive Transit Card,1. Use the Transit Card for travel.,"The transaction gets declined, and an error message appears indicating the card is inactive."
+Depleted Card Usage,Attempt to Use Depleted Card,1. Use the Transit Card for travel.,"The transaction gets declined due to insufficient funds, and an error message appears."
+Card Management,Block Already Blocked Card,"1. Access the Transit Card section.
+2. Select ""Block Card"".","1.The system displays card-related options.
+2.The system notifies that the card is already blocked and prevents duplicate blocking."
+,Request Replacement for Active Card,"1. Access the Transit Card section.
+2. Select ""Request Replacement Card"".","1.The system displays card-related options.
+2.The system prevents the request for card replacement for an active card and displays an error message."
+Bill Payments,Paying a Single Bill,"1. Log in to the banking application. 
+2. Navigate to the ""Bill Payments"" section. 
+3. Select the option to pay a single bill. 
+4. Provide the necessary details, including biller information and payment amount. 
+5. Confirm the payment.","The user successfully pays the specified bill, and the payment is processed, resulting in a confirmation or receipt. The application should deduct the payment amount from the user's account."
+Bill Payments,Scheduling a Bill Payment,"1. Log in to the banking application. 
+2. Navigate to the ""Bill Payments"" section. 3
+. Select the option to schedule a payment. 
+4. Provide the necessary details, including biller information, payment amount, and payment date. 
+5. Confirm the scheduled payment.","The user schedules the bill payment, and the application acknowledges the scheduled payment, providing a confirmation or receipt. The payment should be processed on the specified date."
+Bill Payments,Setting Up Recurring Payments,"1. Log in to the banking application. 
+2. Navigate to the ""Bill Payments"" section. 
+3. Select the option to set up recurring payments. 
+4. Provide the necessary details, including biller information, payment amount, frequency, and start date. 
+5. Confirm the recurring payment setup.","The user successfully sets up recurring payments for the specified bills, and the application processes payments automatically according to the defined schedule. The user receives confirmation or receipts for each payment."
+Bill Payments,Viewing Payment History,"1. Log in to the banking application. 
+2. Navigate to the ""Bill Payments"" section. 
+3. Access the payment history or transaction history. 
+4. Review the list of past bill payments.","The user can access a detailed history of their bill payments, including payment dates, biller information, payment amounts, and payment statuses. This provides a record of all past transactions."
+Bill Payments,Managing Bill Payees,"1. Log in to the banking application. 
+2. Navigate to the ""Bill Payments"" section. 
+3. Access the payee management or bill payee section. 
+4. Add a new payee, edit existing payee information, or remove a payee.","The user can efficiently manage their list of bill payees by adding, editing, or removing payee information. The application should reflect these changes accurately in subsequent payment transactions."
+Bill Payments,Setting Up Bill Payment Alerts,"1. Log in to the banking application. 
+2. Navigate to the ""Bill Payments"" section. 
+3. Access the payment alerts or notifications settings.
+4. Set preferences for receiving alerts (e.g., payment due date reminders).","The user receives notifications or alerts as configured, helping them stay informed about upcoming bill payments and due dates. The application should provide timely reminders and notifications."
+Bill Payments,Utility Bill Payments,"1. Log in to the banking application. 
+2. Navigate to the ""Bill Payments"" section. 
+3. Select the utility bill payment option. 4. Provide biller details and payment amount. 
+5. Confirm the payment.","The user successfully pays their utility bill, and the payment is processed, resulting in a confirmation or receipt. The application deducts the payment amount from the user's account."
+Bill Payments,Credit Card Payments,"1. Log in to the banking application. 
+2. Navigate to the ""Bill Payments"" section. 
+3. Select the credit card payment option. 4. Provide credit card details and payment amount. 
+5. Confirm the payment.","The user successfully pays their credit card bill, and the payment is processed, resulting in a confirmation or receipt. The application deducts the payment amount from the user's account."
+Bill Payments,Loan Payments,"1. Log in to the banking application. 2. Navigate to the ""Bill Payments"" section. 3. Select the loan payment option. 4. Provide loan account details and payment amount. 5. Confirm the payment.","The user successfully pays their loan installment, and the payment is processed, resulting in a confirmation or receipt. The application deducts the payment amount from the user's account."
+Bill Payments,Mobile Phone Recharge,"1. Log in to the banking application. 
+2. Navigate to the ""Bill Payments"" section. 
+3. Select the mobile phone recharge option. 
+4. Provide the mobile number, carrier, and recharge amount. 
+5. Confirm the recharge.","The user successfully recharges their mobile phone, and the payment is processed, resulting in a confirmation or receipt. The application deducts the recharge amount from the user's account."
+Bill Payments,Internet and Cable TV Payments,"1. Log in to the banking application. 
+2. Navigate to the ""Bill Payments"" section. 
+3. Select the internet or cable TV payment option.
+4. Provide biller details and payment amount. 
+5. Confirm the payment.","The user successfully pays their internet or cable TV bill, and the payment is processed, resulting in a confirmation or receipt. The application deducts the payment amount from the user's account."
+Bill Payments,School and Tuition Fee Payments,"1. Log in to the banking application. 
+2. Navigate to the ""Bill Payments"" section. 
+3. Select the school or tuition fee payment option. 
+4. Provide payee details and payment amount. 
+5. Confirm the payment.","The user successfully pays their school or tuition fees, and the payment is processed, resulting in a confirmation or receipt. The application deducts the payment amount from the user's account."
+Bill Payments,Tax Payments,"1. Log in to the banking application. 
+2. Navigate to the ""Bill Payments"" section. 
+3. Select the tax payment option. 
+4. Provide tax details and payment amount. 
+5. Confirm the payment.","The user successfully pays their taxes, and the payment is processed, resulting in a confirmation or receipt. The application deducts the payment amount from the user's account."
+Bill Payments,Miscellaneous Payments,"1. Log in to the banking application. 
+2. Navigate to the ""Bill Payments"" section. 
+3. Select the miscellaneous payment option. 
+4. Provide details and payment amount. 5. Confirm the payment.","The user successfully makes the specified miscellaneous payment, and the payment is processed, resulting in a confirmation or receipt. The application deducts the payment amount from the user's account."
+Investments,Buy Mutual Funds,"1.Navigate to the URL of your bank's official website.
+2.Click on ""Login"" or ""Sign In"" button in bank's website,. 
+3.Enter your registered username or user ID in the provided field.
+4.Enter Password in provided field.
+5.Enter OTP sent to the register mobile number in provided field.
+6.Click the ""Login"" or ""Submit"" button to initiate the login process.
+7. In the ""Investment"" section, choose ""Buy Mutual Funds."" 
+8. Select the investment fund to purchase. 
+9. Enter the investment amount. 
+10. Confirm the transaction.","The application processes the purchase, and the mutual fund units are added to the user's investment portfolio. A confirmation message is displayed."
+Investments,Sell Mutual Funds,"1. In the ""Investment"" section, choose ""Sell Mutual Funds."" 
+2. Select the mutual fund to sell. 
+3. Specify the number of units to sell. 
+4. Confirm the transaction.","The application processes the sale, deducts the specified units from the user's portfolio, and credits the sale amount to the user's account. A confirmation message is displayed."
+Investments,View Investment Portfolio,"1. In the ""Investment"" section, select ""View Investment Portfolio.""","The application displays a summary of the user's investment portfolio, including the names of funds, current unit holdings, and the total value."
+Investments,Set Investment Goals,"1. In the ""Investment"" section, choose ""Set Investment Goals."" 
+2. Define the investment goals, such as target amount and duration. 
+3. Save the goals.","The application records the investment goals, and they are displayed in the user's profile."
+Investments,Apply for Fixed Deposit,"1. In the ""Investment"" section, select ""Apply for Fixed Deposit."" 
+2. Choose the deposit type, tenure, and amount. 
+3. Confirm the application.","The application processes the fixed deposit application, and the deposit is created with the specified details. A confirmation message is displayed."
+Investments,Calculate Returns,"1. In the ""Investment"" section, choose ""Calculate Returns."" 
+2. Select a specific investment fund or the entire portfolio. 
+3. Enter the investment duration. 4. Calculate the expected returns.",The application provides the user with an estimate of the returns based on the selected parameters.
+Investments,Apply for New Investment Account,"1. In the ""Investment"" section, select ""Apply for a New Investment Account."" 
+2. Complete the application form with the required details. 
+3. Submit the application.","The application processes the application, creates a new investment account, and links it to the user's profile. A confirmation message is displayed."
+Mutual Funds,Attempt to Withdraw Unauthorized Funds,"1. Navigate to the ""Mutual Funds"" section. 
+2. Select a fund with no available balance. 
+3. Initiate a withdrawal.",The application displays an error message indicating that the withdrawal cannot proceed due to insufficient funds.
+Mutual Funds,Invalid Fund Selection,"1. Access the ""Mutual Funds"" section. 
+2. Attempt to invest in a fund that doesn't exist or is not offered.","The application displays an error message, informing the user that the selected fund is invalid or unavailable."
+Demat Account,Open a New Demat Account,"1. In the ""Demat Account"" section, select ""Open a New Demat Account."" 
+2. Fill in the required personal and financial details. 
+3. Upload necessary documents. 
+4. Submit the application.",The application processes the application and opens a new Demat account for the user. A confirmation message is displayed.
+Demat Account,Link Existing Demat Account,"1. In the ""Demat Account"" section, choose ""Link Existing Demat Account."" 
+2. Provide the Demat account details. 
+3. Confirm the linking process.","The application links the specified Demat account to the user's profile, allowing them to manage it through the application. A confirmation message is displayed."
+Demat Account,View Demat Holdings,"1. In the ""Demat Account"" section, select ""View Demat Holdings.""","The application displays a list of securities and investments held in the user's Demat account, including details like quantity and current value."
+Demat Account,Transfer Securities,"1. In the ""Demat Account"" section, choose ""Transfer Securities."" 
+2. Specify the recipient's Demat account details. 
+3. Select the securities to transfer. 4. Confirm the transfer.","The application processes the transfer request, deducts the specified securities from the user's account, and adds them to the recipient's Demat account. A confirmation message is displayed."
+Demat Account,Set Auto-Sell Preferences,"1. In the ""Demat Account"" section, select ""Set Auto-Sell Preferences."" 2. Choose specific securities and set conditions for auto-selling. 
+3. Save the preferences.","The application records the auto-sell preferences for the selected securities. When the conditions are met, the system will automatically sell the specified securities."
+Demat Account,Request for Demat Statement,"1. In the ""Demat Account"" section, opt for ""Request Demat Statement."" 
+2. Select the desired statement period. 
+3. Confirm the request.",The application generates the Demat statement for the chosen period and makes it available for download or viewing. A confirmation message is displayed.
+Demat Account,Close Demat Account,"1. In the ""Demat Account"" section, choose ""Close Demat Account."" 
+2. Follow the on-screen instructions to initiate the closure request. 
+3. Confirm the closure.",The application processes the account closure request and transfers any remaining securities to the user's linked bank account. A confirmation message is displayed.
+Demat Account,Unauthorized Sell Transaction,"1. In the ""Demat Account"" section, select a security that the user doesn't own. 
+2. Initiate a sell transaction.","The application returns an error message, preventing the unauthorized sale of the security."
+Demat Account,Wrong Beneficiary Name,"1. In the ""Demat Account"" section, initiate a transfer to another account. 
+2. Enter an incorrect beneficiary name.","The application notifies the user that the beneficiary name is incorrect, and the transfer cannot proceed."
+Demat Account,Sell Transaction without Securities,"1. Navigate to the ""Demat Account"" section. 
+2. Try to initiate a sell transaction without having any securities.","The application displays an error message, indicating that there are no securities to sell."
+Bonds and Securities,View Bond and Security Portfolio,"1. In the ""Bonds and Securities"" section, select ""View Portfolio.""","The application displays a list of the user's current bond and security holdings, including details like type, quantity, and current value."
+Bonds and Securities,Purchase Government Bonds,"1. In the ""Bonds and Securities"" section, choose ""Purchase Government Bonds.""","The application presents a list of available government bonds. The user selects a bond, specifies the quantity, and completes the purchase."
+Bonds and Securities,Purchase Corporate Bonds,"1. In the ""Bonds and Securities"" section, opt for ""Purchase Corporate Bonds.""","The application lists available corporate bonds. The user selects a bond, specifies the quantity, and completes the purchase."
+Bonds and Securities,Sell Bonds and Securities,"1. In the ""Bonds and Securities"" section, select ""Sell Bonds and Securities.""","The application displays the user's holdings, and the user chooses the securities to sell. The application processes the sale."
+Bonds and Securities,Transfer Bonds and Securities to Another Account,"1. In the ""Bonds and Securities"" section, choose ""Transfer to Another Account.""",The application guides the user to select the securities and specify the recipient account details. The transfer is confirmed and executed.
+Bonds and Securities,Request Bond and Security Statement,"1. In the ""Bonds and Securities"" section, opt for ""Request Statement.""",The application generates a statement for the user's bond and security holdings and makes it available for download or viewing.
+Insurance and National Pension Scheme,View Insurance Policies,"1. Navigate to the ""Insurance and Pension"" section. 
+2. Choose ""View Insurance Policies.""","The application displays a list of insurance policies associated with the user, including details like policy type, coverage, and premium."
+Insurance and National Pension Scheme,Purchase New Insurance Policy,"1. In the ""Insurance and Pension"" section, select ""Purchase New Insurance Policy."" 
+2. Choose the type of insurance policy to purchase.","The application guides the user through the policy selection process, collects necessary information, and confirms the purchase."
+Insurance and National Pension Scheme,Update Beneficiary Information for Insurance Policies,"1. In the ""Insurance and Pension"" section, choose ""Update Beneficiary Information."" 
+2. Select the policy for which beneficiaries need updating.",The application allows the user to add or modify beneficiary details for the selected policy. The changes are saved.
+Insurance and National Pension Scheme,Check National Pension Scheme (NPS) Balance,"1. In the ""Insurance and Pension"" section, opt for ""Check NPS Balance."" 
+2. Provide the necessary NPS account details.",The application retrieves and displays the user's National Pension Scheme account balance.
+Insurance and National Pension Scheme,Make Contributions to National Pension Scheme (NPS),"1. In the ""Insurance and Pension"" section, select ""Contribute to NPS."" 
+2. Specify the contribution amount and confirm the transaction.","The application processes the user's NPS contribution, and the account balance is updated accordingly."
+Insurance and National Pension Scheme,View and Download Insurance Statements and Documents,"1. In the ""Insurance and Pension"" section, choose ""View Statements and Documents."" 
+2. Select the document or statement to view/download.",The application provides access to insurance policy statements and documents for viewing and downloading.
+Insurance and National Pension Scheme,Invalid Pension Scheme Enrollment,"1. Visit the ""National Pension Scheme"" area. 
+2. Try to enroll in a non-eligible pension scheme.","The application rejects the enrollment attempt, indicating that the selected scheme is not available for enrollment."
+Insurance and National Pension Scheme,Premature Pension Scheme Withdrawal,"1. In the ""National Pension Scheme"" section, try to withdraw from a non-withdrawable pension scheme.","The application prevents the premature withdrawal, notifying the user that it is not allowed for the selected scheme."
+Search,Search for Account Transactions,"1.Navigate to the URL of your bank's official website.
+2.Click on ""Login"" or ""Sign In"" button in bank's website,. 
+3.Enter your registered username or user ID in the provided field.
+4.Enter Password in provided field.
+5.Enter OTP sent to the register mobile number in provided field.
+6.Click the ""Login"" or ""Submit"" button to initiate the login process.
+7. Navigate to the ""Search"" section. 
+8. Select ""Account Transactions Search.""
+9. Provide search criteria (e.g., date range, transaction type). 10. Initiate the search.","The application retrieves and displays a list of account transactions that match the search criteria, with details such as date, description, and amount."
+Search,Advanced Transaction Search,"1. In the ""Search"" section, choose ""Advanced Transaction Search."" 2. Specify advanced search criteria (e.g., amount range, payee, category). 3. Start the search.","The application presents a list of transactions that meet the advanced search criteria, along with relevant transaction details."
+Search,Find Nearby ATMs/Branches,"1. Go to the ""Search"" section. 
+2. Opt for ""Find Nearby ATMs/Branches."" 
+3. Provide location details or use the current location. 4. Initiate the search.","The application displays a map or list of nearby ATMs and branches, along with essential location information."
+Search,Search for Specific Service,"1. Access the ""Search"" section. 
+2. Choose ""Search for Specific Service."" 
+3. Specify the service or assistance needed (e.g., loan application). 
+4. Begin the search.","The application presents options or guidance related to the requested service, such as links to relevant application forms or information."
+Search,Search for Contact Information,"1. In the ""Search"" section, pick ""Contact Information Search."" 
+2. Specify the type of contact information (e.g., branch contact). 
+3. Perform the search.","The application provides contact details for the selected type (e.g., branch contact, customer support), including phone numbers and addresses."
+Search,Search for Financial Products,"1. Enter the ""Search"" section. 
+2. Select ""Financial Products Search."" 
+3. Indicate the type of financial product (e.g., savings account).
+4. Initiate the search.","The application displays information on available financial products matching the selected type, including features and rates."
+Search,Invalid Search Query,"1. Navigate to the ""Search"" section. 
+2. Enter an invalid search query.",The application displays no relevant results and provides an option for the user to refine the search query.
+Search,Unauthorized Access to Search Data,"1. Access the ""Search"" section. 
+2. Try to view sensitive user data or account information via the search feature.","The application denies access to unauthorized data, ensuring that user privacy and security are maintained."
+Search,Unauthorized Account Information Access,"1. Visit the ""Search"" section. 
+2. Attempt to access account details of other users through the search functionality.",The application prevents unauthorized access to account information and ensures data privacy and security.
+In-App notification,Receiving a New Notification,"1. While logged in, wait for a new notification to arrive.","A new notification is displayed within the app, often as a pop-up or within a dedicated notifications area."
+In-App notification,Clicking on a Notification,1. Access the list of notifications. 2. Click on a specific notification.,"The selected notification is opened, and it may lead to a relevant page or action within the app."
+In-App notification,Clearing Notifications,1. Access the list of notifications. 2. Mark one or more notifications as read or clear them.,The notifications are marked as read or cleared from the list. They may be moved to an archive or deleted.
+In-App notification,Interacting with Actionable Notifications,"1. Receive a notification with actionable buttons (e.g., ""Accept,"" ""Dismiss""). 2. Click on the action buttons.","The actions associated with the notification are performed, such as accepting or dismissing an offer."
+In-App notification,Viewing Notification History,1. Access the notification history or archives.,The user can view past notifications and their details.
+In-App notification,Filtering Notifications by Type or Category,"1. Apply filters to view notifications by type (e.g., transaction alerts, promotions).","Notifications are sorted based on the applied filters, making it easier to find specific types of notifications."
+In-App notification,Managing Notification Preferences,"1. Access the notification settings. 2. Adjust notification preferences (e.g., frequency, channels).","The user can customize how and when they receive notifications, enhancing their in-app experience."
+In-App notification,Notifications Not Received,1. Wait for notifications while logged in.,No notifications are received during the specified time frame.
+In-App notification,Notification Click Redirects to Wrong Page,1. Click on a notification that should lead to a specific page or feature.,"The user is redirected to an incorrect or unrelated page, causing confusion."
+In-App notification,Unresponsive Actionable Notifications,"1. Receive a notification with actionable buttons (e.g., ""Accept,"" ""Dismiss""). 
+2. Click on the actions.","Clicking on the action buttons has no effect, or they produce unexpected outcomes."
+In-App notification,Notifications Not Removed After Clearing,1. Mark one or more notifications as read or clear them.,The notifications remain in the list even after being marked as read or cleared.
+In-App notification,Incorrect Notification History Display,1. Access the notification history or archives.,The notification history displays incorrect or unrelated notifications.
+In-App notification,Filtered Notifications Not Displayed,"1. Apply filters to view notifications by type (e.g., transaction alerts, promotions).","Filtered notifications do not display as expected, making it challenging to find specific types."
+In-App notification,Broken Notification Preferences,"1. Access the notification settings. 
+2. Modify notification preferences (e.g., frequency, channels).","Changes to notification preferences do not save or apply as intended, leading to issues."
+Shop with Rewards,Redeem Credit Card Points,"1.Navigate to the URL of your bank's official website.
+2.Click on ""Login"" or ""Sign In"" button in bank's website,. 
+3.Enter your registered username or user ID in the provided field.
+4.Enter Password in provided field.
+5.Enter OTP sent to the register mobile number in provided field.
+6.Click the ""Login"" or ""Submit"" button to initiate the login process.
+7. Navigate to the Rewards section.
+8.Select ""Redeem Points"" for a purchase.
+9.Enter transaction details.
+10.Confirm and complete the redemption.","1. Points balance is displayed.
+2. System prompts for confirmation and details.
+3. Transaction details are accurate.
+4. Points are deducted, and confirmation is displayed."
+Shop with Rewards,Earn Rewards for Transactions,"1. Make a qualifying transaction.
+2. Check the rewards summary.","1. Transaction details are recorded.
+2. Points are added based on transaction criteria."
+Shop with Rewards,Explore Exclusive Offers,"1. Visit the Offers or Discounts section.
+2. Choose an offer and follow instructions.","1. Exclusive offers are displayed.
+2. User is eligible and can avail of the offer."
+Shop with Rewards,Track and Manage Rewards History,1. Access the Rewards History section.,1. Comprehensive history of earned and redeemed points.
+Shop with Rewards,Attempt to Redeem Insufficient Points,"1. Navigate to the Rewards section.
+2. Select ""Redeem Points"" for a purchase.
+3. Enter transaction details.","1. Points balance is displayed. 
+2. System prompts for confirmation and details.
+3. System displays an error indicating insufficient points."
+Shop with Rewards,Attempt to Earn Rewards with Ineligible Transaction,"1. Make a transaction that doesn't meet eligibility criteria.
+2. Check the rewards summary.","1. Transaction details are recorded.
+2. Points are not added as the transaction is ineligible."
+Shop with Rewards,Explore Offers with Invalid User,"1. Visit the Offers or Discounts section.
+2. Log out and log in with an invalid user.","1. Exclusive offers are displayed.
+2. Offers are not accessible, and an error is displayed."
+Shop with Rewards,Attempt to View Rewards History without Login,1. Attempt to access the Rewards History section without logging in.,"1. System prompts for login, history is not accessible."
+Chatbot or Support Section,Request General Information from Chatbot,"1.Navigate to the URL of your bank's official website.
+2.Click on ""Login"" or ""Sign In"" button in bank's website,. 
+3.Enter your registered username or user ID in the provided field.
+4.Enter Password in provided field.
+5.Enter OTP sent to the register mobile number in provided field.
+6.Click the ""Login"" or ""Submit"" button to initiate the login process.
+7. Access the Chatbot or Support Section.
+8. Ask the Chatbot about the bank's working hours.
+9. Engage in a conversation with the Chatbot.","1. Chatbot greets the user and provides general information.
+2. Chatbot responds with the bank's working hours.
+3. Chatbot provides relevant and accurate information."
+Chatbot or Support Section,Report an Issue to Customer Support,"1. Access the Support Section.
+2. Choose to report a technical issue.
+3. Provide details about the issue.","1. Options to report issues or contact customer support are available.
+2. System provides a form or interface to report the issue.
+3. Confirmation message is displayed, and issue is logged."
+Chatbot or Support Section,Live Chat with Customer Support,"1. Access the Live Chat feature in the Support Section.
+2. Initiate a live chat conversation.","1. Chat interface with a customer support agent is available.
+2. Customer support agent responds promptly."
+Chatbot or Support Section,Request Account Assistance through Chatbot,"1. Ask the Chatbot for assistance with an account-related issue.
+2. Choose the relevant option and provide necessary details.","1. Chatbot provides options for account-related assistance.
+2. Chatbot processes the request and provides guidance."
+Service Request via Chatbot,Requesting Bank Statement via Chatbot,"1. Access the Chatbot or Support Section. 
+2. Request a bank statement. 
+3. Provide necessary details like the statement period.",The Chatbot processes the request and notifies the user about the availability of the bank statement.
+Service Request via Chatbot,Raising Account Closure Request via Chatbot,"1. Use the Chatbot or Support Section. 
+2. Request assistance with closing the account. 
+3. Confirm the closure request.","The Chatbot provides information about the closure process, and upon confirmation, initiates the account closure request."
+Live Chat with Support Agent,Live Chat for Bank Statement Request,"1. Initiate a live chat with a support agent. 
+2. Request a bank statement. 
+3. Provide necessary details. 
+4. Support agent processes the request.",The support agent confirms the availability of the bank statement and provides any additional information as needed.
+Live Chat with Support Agent,Live Chat for Account Closure Request,"1. Initiate a live chat with a support agent. 
+2. Inform the agent about the account closure request.
+ 3. Support agent guides through the closure process.",The support agent guides the user through the closure process and confirms the account closure request.
+Negative Scenarios in Chatbot,Incorrect Information Input,"1. Access the Chatbot or Support Section.  
+2. Provide incorrect or invalid details while making a service request.",The Chatbot detects the invalid input and prompts the user to correct the information.
+Negative Scenarios in Live Chat,Unresponsive Support Agent,"1. Initiate a live chat with a support agent.  
+2. Wait for an extended period without receiving any response.",The system recognizes the delay and either automatically connects to another agent or notifies the user about the delay and provides alternatives.
+Negative Scenarios in Chatbot,Ambiguous Request,"1. Access the Chatbot or Support Section.  
+2. Make a service request with ambiguous or incomplete information.",The Chatbot prompts the user to provide additional details to fulfill the request.
+Negative Scenarios in Live Chat,Disconnection During Critical Service Request,"1. Initiate a live chat for a critical service request.  
+2. Simulate a disconnection either by closing the app or disconnecting the network.","The system should retain the context of the conversation, and upon reconnection, guide the user to complete the service request."
+Locate Us Section,Find Nearest ATM,"1.Navigate to the URL of your bank's official website.
+2.Click on ""Login"" or ""Sign In"" button in bank's website,. 
+3.Enter your registered username or user ID in the provided field.
+4.Enter Password in provided field.
+5.Enter OTP sent to the register mobile number in provided field.
+6.Click the ""Login"" or ""Submit"" button to initiate the login process.
+7. Access the ""Locate Us"" section. 
+8. Choose the option to find the nearest ATM.  
+9. Enter the current location or use the device's GPS.","The application displays a map or a list of ATMs near the user's location, along with details such as address and operating hours."
+Locate Us Section,Locate Branch,"1. Access the ""Locate Us"" section.  
+2. Choose the option to locate a branch.  
+3. Enter the city or use the device's GPS.","The application provides a map or a list of branches in the specified city, including branch details and contact information."
+Locate Us Section,Filter Locations,"1. Access the ""Locate Us"" section.  
+2. Apply filters such as ""ATMs only"" or ""Branches only.""","The application refines the displayed locations based on the selected filters, providing a more targeted search."
+Locate Us Section,Get Directions to a Location,"1. Access the ""Locate Us"" section.  
+2. Choose a specific ATM or branch.  
+3. Select the option to get directions.",The application integrates with map services to provide step-by-step directions to the selected location.
+Locate Us Section,Get direction for Cash deposit machine,"1. Access the ""Locate Us"" section.  
+2. Choose the option to find the nearest ATM.  
+3. Select CDM in filter section (e.g., special characters).",The application integrates with map services to provide step-by-step directions to the selected location.
+Locate Us Section,Invalid Location Input,"1. Access the ""Locate Us"" section.  
+2. Choose the option to find the nearest ATM.  
+3. Enter an invalid location (e.g., special characters).",The application should display an error message indicating that the location input is invalid.
+Locate Us Section,No ATMs or Branches Found,"1. Access the ""Locate Us"" section.  
+2. Choose the option to find the nearest ATM or locate a branch in a specific city with no locations.",The application should inform the user that no ATMs or branches were found based on the provided criteria.
+Locate Us Section,No GPS Access or Location Services Disabled,"1. Access the ""Locate Us"" section.  
+2. Choose the option to find the nearest ATM.  
+3. Attempt to use GPS, but disable location services on the device.",The application should prompt the user to enable location services and provide guidance on how to enable them.
+Locate Us Section,Failure to Retrieve Map or Location Information,"1. Access the ""Locate Us"" section.  
+2. Choose the option to find the nearest ATM or locate a branch.  
+3. Simulate a failure to retrieve map or location information.","The application should display an error message, notifying the user of the issue, and suggest alternative actions or retrying later."
+About Us - General Info,View General Information,"1. Navigate to the ""About Us"" section.  2. Select the option for general information.","The application should display relevant and accurate general information about the bank, including its history, mission, and values."
+About Us - Leadership Team,View Leadership Team,"1. Navigate to the ""About Us"" section.  2. Choose the option to view the leadership team.","The application should present detailed information about the bank's leadership team, including names, roles, and brief bios."
+About Us - Awards and Recognition,View Awards and Recognition,"1. Navigate to the ""About Us"" section.  2. Select the option for awards and recognition.","The application should showcase the bank's achievements, awards, and recognitions, providing a comprehensive list and details."
+About Us - Corporate Social Responsibility,View CSR Initiatives,"1. Navigate to the ""About Us"" section.  2. Choose the option to explore CSR initiatives.","The application should display information on the bank's CSR activities, detailing projects, partnerships, and social contributions."
+About Us - Contact Us,Access Contact Information,"1. Navigate to the ""About Us"" section.  2. Select the option for contact details.","The application should present accurate contact information, including addresses, phone numbers, and email addresses."
+Offers - Featured Offers,View Featured Offers,"1. Navigate to the ""Offers"" section.  
+2. Look for the section on featured offers.","The application should display a curated list of current featured offers, including details on discounts, promotions, or exclusive deals."
+Offers - Category-wise,Explore Offers by Category,"1. Navigate to the ""Offers"" section.  
+2. Choose a specific category of offers (e.g., travel, shopping).","The application should present a variety of offers within the selected category, allowing users to explore and access relevant deals."
+Offers - New Arrivals,Discover New Offers,"1. Navigate to the ""Offers"" section.  
+2. Look for the section highlighting new arrivals in offers.","The application should showcase recently added offers, ensuring users are aware of the latest promotions and opportunities."
+Offers - Terms and Conditions,Review Offer Details,"1. Navigate to the ""Offers"" section.  
+2. Select a specific offer to view details.  
+3. Check the terms and conditions of the offer.","The application should provide clear and comprehensive terms and conditions for the selected offer, including eligibility criteria and expiration dates."
+Offers - Redeem Points,Redeem Loyalty Points,"1. Navigate to the ""Offers"" section.  
+2. Explore offers that allow redemption of loyalty points.","The application should facilitate the smooth redemption of loyalty points for eligible offers, with a clear process and confirmation."
+Offers,Link re-direction to expected section,"1. Navigate to the ""Offers"" section.  
+2. Click on any one of the offer displayed.(eg.Personal Loan  offers)",The application should re-direct user to the exact personal loan section by applying the offer.
+Offers - Expired Offers,Access Expired Offers,"1. Navigate to the ""Offers"" section.  
+2. Attempt to access an offer that has expired.",The application should display a clear message indicating that the selected offer has expired and is no longer available for redemption or use.
+Offers - Invalid Category,Choose an Invalid Category,"1. Navigate to the ""Offers"" section.  
+2. Select a category that does not exist.","The application should gracefully handle the invalid category selection, providing an appropriate error message and guiding the user to choose a valid category."
+Offers - Missing Details,View Offer with Incomplete Information,"1. Navigate to the ""Offers"" section.  
+2. Select an offer with missing or incomplete details.","The application should not allow access to offers with incomplete information. Instead, it should display a message indicating that the details for the selected offer are currently unavailable."
+Offers - Insufficient Points,Redeem with Insufficient Loyalty Points,"1. Navigate to the ""Offers"" section.  
+2. Choose an offer that requires more loyalty points than the user possesses.","The application should prevent the user from proceeding with the redemption, displaying a message notifying them of insufficient loyalty points and suggesting alternative offers."
+Offers - Technical Glitch,Encounter Technical Glitch,"1. Navigate to the ""Offers"" section.  
+2. Simulate a technical glitch by attempting to access offers during system downtime.","The application should gracefully handle technical issues, displaying an error message that acknowledges the problem and advises the user to try again later."
+Quick Links,Accessing Account-Specific Quick Links,"
+1.Navigate to the URL of your bank's official website.
+2.Click on ""Login"" or ""Sign In"" button in bank's website,. 
+3.Enter your registered username or user ID in the provided field.
+4.Enter Password in provided field.
+5.Enter OTP sent to the register mobile number in provided field.
+6.Click the ""Login"" or ""Submit"" button to initiate the login process.
+7. Navigate to the ""Quick Links"" section.
+8. Click on a quick link related to account-specific actions (e.g., ""View Balance,"" ""Transaction History"").
+9. Repeat step 2 for multiple account-specific quick links.","1.A list of quick links specific to the user's account type or services is displayed.
+2.The user is directed to the corresponding page or action associated with the selected quick link, showing account-specific information.
+3.The user can access different account-specific features using the provided quick links."
+Quick Links,Accessing General Quick Links,"1. Navigate to the ""Quick Links"" section.
+2. Click on a general quick link not specific to account details (e.g., ""Contact Customer Support,"" ""FAQs"").
+3. Repeat step 2 for multiple general quick links.","1.A list of general quick links applicable to all users is displayed.
+2.The user is directed to the corresponding page or action associated with the selected general quick link.
+3.The user can access different general features using the provided quick links."
+Quick Links,Accessing Quick Links for Special Promotions,"1. Navigate to the ""Quick Links"" section.
+2. Click on a quick link related to a special promotion or offer (e.g., ""Current Promotions,"" ""Discounts"").
+3. Repeat step 2 for multiple quick links related to special promotions.","1.A list of quick links related to special promotions or offers is displayed.
+2.The user is directed to the corresponding page or action associated with the selected quick link, showing promotion details.
+3.The user can explore different special promotions or offers using the provided quick links."
+Quick Links,Accessing an Invalid Quick Link,"1. Navigate to the ""Quick Links"" section.
+2. Attempt to access a quick link that does not exist or is invalid (e.g., a link with a typo or a non-functional link).","1.A list of quick links is displayed.
+2.An error message or notification is displayed, indicating that the quick link is invalid or not available."
+Quick Links,Accessing a Quick Link with Insufficient Permissions,"1. Navigate to the ""Quick Links"" section.
+2. Attempt to access a quick link that requires specific permissions (e.g., an administrative action).","1.A list of quick links is displayed.
+2.An error message is displayed, informing the user that they do not have the necessary permissions to access the link."
+Quick Links,Interacting with Quick Links during Maintenance,"1. Navigate to the ""Quick Links"" section.
+2. Attempt to access a quick link while the application is undergoing maintenance or is temporarily unavailable.","1.A list of quick links is displayed.
+2.A maintenance message or notification is displayed, indicating that the quick link cannot be accessed during maintenance."
+Quick Links,Quick Link Responsiveness on Unstable Network,"1. Navigate to the ""Quick Links"" section.
+2. Attempt to access a quick link while the network connection is unstable or slow.","1.A list of quick links is displayed.
+2.The application handles the request gracefully, and a loading indicator or error message is displayed if needed."
+Quick Links,Accessing Quick Links with Disabled JavaScript,"1. Navigate to the ""Quick Links"" section.
+2.2. Disable JavaScript in the browser settings and attempt to interact with a quick link.","1.A list of quick links is displayed.
+2.An error message is displayed, instructing the user to enable JavaScript for the optimal functioning of the application."
+News,Viewing Latest News,"1. Navigate to the ""News"" section.
+2. Click on a specific news article.
+3. Optionally, navigate back to the list of news articles.
+4. Click on another news article.
+5. Check for the publication date of the news article.
+6. Optionally, share the news article on social media or other platforms.","1.A list of the latest news articles related to banking or financial information is displayed.
+2.The full content of the selected news article is displayed.
+3.The user is returned to the list of news articles.
+4.The content of the newly selected news article is displayed.
+5.The publication date is visible and reflects the current or relevant date.
+6.A sharing interface is displayed, allowing the user to share the news article."
+News,Searching for News,"1. Navigate to the ""News"" section.
+2. Enter a keyword or phrase in the search bar and press ""Enter.""
+3. Click on a specific search result.
+4. Verify that the search results are relevant to the entered keyword.
+5. Optionally, navigate back to the list of search results.
+6. Perform multiple searches with different keywords.","1.A search bar or option to search for news is available.
+2.A list of news articles containing the entered keyword or phrase is displayed.
+3.The full content of the selected news article is displayed.
+4.The search results are relevant, and the user can find news articles based on the entered keyword.
+5.The user is returned to the list of search results.
+6.The user can successfully find relevant news articles using different search queries."
+News,Accessing Invalid News Article,"1. Navigate to the ""News"" section.
+2. Attempt to access a news article that does not exist or is invalid (e.g., a non-existent article ID or a typo in the URL).","1.A list of news articles is displayed.
+2.An error message or a ""Not Found"" page is displayed, indicating that the requested news article is not available."
+News,Accessing News Article with Insufficient Permissions,"1. Navigate to the ""News"" section.
+2. Attempt to access a news article that requires specific permissions (e.g., premium content for which the user doesn't have access).","1.A list of news articles is displayed.
+2.An error message is displayed, indicating that the user does not have the necessary permissions to view the requested news article."
+News,Attempting to Share News without Content,"1. Navigate to the ""News"" section.
+2. Select a news article but do not provide any content or text when attempting to share it.","1.A list of news articles is displayed.
+2.An error message is displayed, informing the user that sharing requires entering some content or text."
+News,Searching for Non-Existent News,"1. Navigate to the ""News"" section.
+2. Enter a keyword or phrase in the search bar for a news article that doesn't exist.","1.A search bar or option to search for news is available.
+2.A message or indication is displayed, stating that no news articles matching the entered keyword were found."
+News,Attempting to Search with Special Characters,"1. Navigate to the ""News"" section.
+2. Enter special characters (e.g., !@#$%^&*) in the search bar and press ""Enter.""","1.A search bar or option to search for news is available.
+2.The application handles special characters gracefully, and an error message or informative feedback is displayed, guiding the user."
+News,Loading News on Slow Network,"1. Navigate to the ""News"" section.
+2. Simulate a slow network connection and attempt to load a news article.","1.A list of news articles is displayed.
+2.The application should handle the slow network gracefully, displaying a loading indicator or providing feedback while the content loads."
+Calculator,Accessing Currency Converter,"1. Navigate to the ""Calculator"" section.
+2. Enter an amount in one currency and select another currency for conversion.
+3. Change the currencies and verify that the conversion is updated accordingly.","1.A currency converter interface is displayed, allowing users to convert between different currencies.
+2.The currency converter accurately displays the converted amount based on the exchange rate.
+3.The currency converter updates the conversion based on the new selected currencies."
+Calculator,Accessing Loan EMI Calculator,"1. Navigate to the ""Calculator"" section.
+2. Enter loan amount, interest rate, and loan tenure to calculate the EMI.
+3. Verify the display of the total repayment amount and interest paid.","1.A loan EMI (Equated Monthly Installment) calculator interface is displayed.
+2.The EMI calculator accurately calculates the monthly installment based on the provided inputs.
+3.The EMI calculator displays the total repayment amount and the interest paid over the loan tenure."
+Calculator,Accessing Mortgage Calculator,"1. Navigate to the ""Calculator"" section.
+2. Enter the loan amount, interest rate, loan term, and property tax/insurance information.
+3. Verify the display of the amortization schedule and total payments.","1.A mortgage calculator interface is displayed, allowing users to calculate mortgage payments.
+2.The mortgage calculator accurately calculates monthly mortgage payments, including tax and insurance.
+3.The mortgage calculator displays an accurate amortization schedule and the total payments over the loan term."
+Insurance,Accessing Insurance Information,"1. Navigate to the ""Insurance"" section.
+2. Verify that the user has access to their insurance portfolio.","1.A dashboard or landing page displaying insurance-related information, such as policies, coverage, and premiums.
+2.The user can see a summary of their active insurance policies, coverage details, and premium information."
+Insurance,Viewing Policy Details,"1. Navigate to the ""Insurance"" section.
+2. Click on a specific insurance policy to view details.
+3. Check for policy details such as coverage amount, premium, policy term, and any additional benefits.","1.A dashboard or landing page displaying insurance-related information.
+2.The user is directed to a detailed page showing information about the selected insurance policy, including coverage details, terms, and conditions.
+3.The displayed information is accurate and matches the details associated with the selected insurance policy."
+Insurance,Updating Insurance Beneficiary Information,"1. Navigate to the ""Insurance"" section.
+2. Select a specific insurance policy that allows beneficiary updates.
+3. Update the beneficiary information and save the changes.","1.A dashboard or landing page displaying insurance-related information.
+2.The user is directed to a page where they can update beneficiary information for the selected insurance policy.
+3.The system updates the beneficiary information for the selected insurance policy, and the changes are reflected in the system."
+Insurance,Making a Claim,"1. Navigate to the ""Insurance"" section.
+2. Select an insurance policy that allows claims.
+3. Fill in the necessary details for the claim, including incident information and required documentation.","1.A dashboard or landing page displaying insurance-related information.
+2.The user is directed to a page where they can initiate a claim for the selected insurance policy.
+3.The system processes the claim request, and the user receives confirmation of the claim submission."
+Insurance,Checking Claim Status,"1. Navigate to the ""Insurance"" section.
+2. Select an insurance policy for which a claim has been submitted.
+3. Verify the display of the current status of the claim, such as ""Under Review,"" ""Approved,"" or ""Denied.""","1.A dashboard or landing page displaying insurance-related information.
+2.The user is directed to a page where they can check the status of the claim for the selected insurance policy.
+3.The displayed claim status is accurate and reflects the current status of the submitted claim."
+Insurance,Accessing Invalid Insurance Policy,"1. Navigate to the ""Insurance"" section.
+2. Attempt to access a non-existent or invalid insurance policy.","1.A dashboard or landing page displaying insurance-related information.
+2.An error message or notification is displayed, indicating that the requested insurance policy is not found or invalid."
+Insurance,Updating Beneficiary Information without Permissions,"1. Navigate to the ""Insurance"" section.
+2. Select an insurance policy that does not allow the user to update beneficiary information.","1. A dashboard or landing page displaying insurance-related information.
+2.An error message is displayed, indicating that the user does not have the necessary permissions to update beneficiary information for the selected insurance policy."
+Insurance,Initiating a Claim for an Ineligible Incident,"1. Navigate to the ""Insurance"" section.
+2.Select an insurance policy that does not cover the type of incident the user wants to claim.","1.A dashboard or landing page displaying insurance-related information.
+2.An error message is displayed, indicating that the selected insurance policy does not cover the specified incident type, and the user cannot proceed with the claim initiation."
+Insurance,Attempting to Submit an Incomplete Claim,"1. Navigate to the ""Insurance"" section.
+2. Select an insurance policy that allows claims.
+3. Fill in only partial details for the claim, leaving required fields empty.","1.A dashboard or landing page displaying insurance-related information.
+2.The user is directed to a page where they can initiate a claim for the selected insurance policy.
+3.An error message is displayed, indicating that all required fields must be filled in to submit a claim."
+Insurance,Checking Claim Status for a Non-Existent Claim,"1. Navigate to the ""Insurance"" section.
+2. Select an insurance policy for which no claim has been submitted.","1.A dashboard or landing page displaying insurance-related information.
+2.An error message or notification is displayed, indicating that there are no submitted claims for the selected insurance policy."
+Insurance,Checking Claim Status without Permissions,"1. Navigate to the ""Insurance"" section.
+2. Select an insurance policy that does not allow the user to check claim status.","1.A dashboard or landing page displaying insurance-related information.
+2.An error message is displayed, indicating that the user does not have the necessary permissions to check the claim status for the selected insurance policy."
+Insurance,Attempting to Access Insurance Section with No Policies,"1. Navigate to the ""Insurance"" section.
+2. Verify if the user receives an informative message about the absence of insurance policies.","1. A user account with no associated insurance policies.
+2. The system displays a message indicating that the user does not have any associated insurance policies and encourages them to explore available insurance options."
+Account Type Selection,Open Current Account,"1.Navigate to the URL of your bank's official website.
+2.Click on ""Login"" or ""Sign In"" button in bank's website,. 
+3.Enter your registered username or user ID in the provided field.
+4.Enter Password in provided field.
+5.Enter OTP sent to the register mobile number in provided field.
+6.Click the ""Login"" or ""Submit"" button to initiate the login process.
+7.Navigate to the ""Open Account"" section in the banking application.
+8. Select ""Current Account"" as the account type.","1.The system displays options to choose the account type.
+
+2.The system highlights the selected account type (Current Account) and proceeds to the next step."
+Account Type Selection,Open Savings Account,"1. Navigate to the ""Open Account"" section in the banking application.
+2. Select ""Savings Account"" as the account type.","1.The system displays options to choose the account type.
+2.The system highlights the selected account type (Savings Account) and proceeds to the next step."
+Personal Information,Enter Personal Details,"1. Fill in personal details such as name, address, date of birth, and contact information.",The system accepts the provided personal information without errors.
+Identification,Upload ID Documents,"1. Choose the option to upload identification documents (e.g., passport, driver's license).
+2. Select the appropriate files and upload them.","1.The system prompts for document upload.
+2.The system accepts the uploaded documents and verifies their authenticity."
+Initial Deposit,Deposit Funds,"1. Enter the amount for the initial deposit into the new account.
+2. Choose the source of funds for the initial deposit (e.g., transfer from another account).","1.The system verifies the deposited amount meets the minimum required for opening the selected account type.
+2.The system processes the initial deposit and verifies the fund source."
+Confirmation,Review and Confirm,"1. Review all entered information for accuracy.
+2. Confirm the request to open the account.","1.The system displays a summary of the provided details for confirmation.
+2.The system acknowledges the request and displays a confirmation message of successful account opening."
+Account Creation,Account Creation Completion,1. Receive an account number or confirmation of the account creation.,The system provides the user with the new account details or a confirmation message.
+Invalid Account Type,Invalid Account Selection,"1. Navigate to the ""Open Account"" section.
+2. Attempt to select an unsupported or unavailable account type.","1.The system displays options to choose the account type.
+2.The system denies the selection and displays an error message indicating an invalid account type."
+Missing Personal Information,Incomplete Personal Details,"1. Fill in only partial personal details (e.g., leaving out address or contact information).
+2. Leave mandatory fields blank.","1.The system prompts for all required personal information.
+2.The system displays error messages next to the blank fields, indicating them as required."
+Invalid ID Documents,Upload Incorrect ID Documents,"1. Choose the option to upload identification documents.
+2. Upload documents that don't meet the specified requirements or are fake.","1.The system prompts for document upload.
+2.The system rejects the documents and displays an error message indicating the issue with the uploaded documents."
+Insufficient Initial Deposit,Deposit Below Minimum Amount,"1. Enter an initial deposit amount below the minimum required for account opening.
+2. Attempt to proceed with the inadequate deposit.","1.The system displays an error message indicating the minimum required deposit amount.
+2.The system prevents further steps and prompts the user to increase the deposit amount."
+Conflicting Information,Conflicting Data Entry,"1. Enter contradictory information in different sections (e.g., conflicting addresses or birthdates).
+2. Confirm submission with conflicting data.","1.The system identifies the inconsistencies and prompts for correction.
+2.The system halts the process and displays an error message, asking the user to resolve the conflicting information."
+Duplicate Account Creation,Attempt to Create Duplicate Account,"1. Try to open a new account with the same details as an existing account.
+2. Proceed with duplicate account creation.","1.The system identifies the existing account and prevents the creation of a duplicate account.
+2.The system displays an error message indicating that the account already exists and advises to use the existing account or contact support."
+Phone Banking,Access and Authentication,"1. Dial the phone banking number provided by the bank.
+2. Enter the customer ID and PIN using the keypad.","1.The system prompts for credentials.
+2.The system authenticates the credentials and grants access to phone banking services."
+,Access Without Valid Credentials,"1. Dial the phone banking number.
+2. Enter incorrect customer ID or PIN.","1.The system prompts for credentials.
+2.The system denies access and provides an error message, prompting to re-enter correct credentials."
+,Account Information,1. Select the option to check account balance.,The system retrieves and displays the current account balance.
+,Fund Transfers,"1. Choose the option for fund transfer.
+2. Enter the required information.","1.The system prompts for source and destination account details along with the amount.
+2.The system validates and processes the fund transfer, confirming the successful transaction."
+,Access with Incorrect Credentials,"1. Dial the phone banking number.
+2. Enter incorrect customer ID or PIN.","1.The system prompts for credentials.
+2.The system denies access and provides an error message, prompting to re-enter correct credentials."
+,Account Information Retrieval Failure,1. Choose the option to check account balance.,The system fails to retrieve the account balance due to a technical error.
+,Fund Transfer Error,"1. Select the option for fund transfer.
+2. Enter incomplete or incorrect details.","1.The system prompts for source and destination account details along with the amount.
+2.The system fails to process the transaction and displays an error message."
+Missed Call Service,Balance Inquiry,1. Give a missed call to the designated missed call service number from the registered mobile number.,The system recognizes the missed call and sends an SMS with the account balance details.
+,Mini Statement Request,1. Give a missed call to the designated missed call service number from the registered mobile number.,The system recognizes the missed call and sends an SMS with the mini statement of recent transactions.
+,Balance Inquiry Failure,1. Give a missed call to the designated missed call service number.,The system fails to recognize the missed call and doesn’t send an SMS with the account balance.
+,Mini Statement Request Failure,1. Give a missed call to the designated missed call service number.,The system fails to recognize the missed call and doesn’t send an SMS with the mini statement of recent transactions.
+Doorstep Banking,Service Request,"1. Log in to the customer portal.
+2. Choose the required service (e.g., document collection, cash withdrawal).
+3. Enter the required information.","1.The system displays options for doorstep banking services.
+2.The system prompts for necessary details (address, service type).
+3.The system schedules the service request and provides a confirmation with the scheduled date and time."
+,Service Cancellation,"1. Log in to the customer portal.
+2. Select the scheduled service to be canceled.","1.The system displays options for scheduled doorstep services.
+2.The system confirms the cancellation and updates the service status accordingly."
+,Service Request Rejection,"1. Log in to the customer portal.
+2. Choose the required service.","1.The system displays options for doorstep banking services.
+2.The system rejects the service request due to unavailability or invalid service type, displaying an error message."
+,Service Cancellation Failure,"1. Log in to the customer portal.
+2. Attempt to cancel a non-existent scheduled service.","1.The system displays options for scheduled doorstep services.
+2.The system fails to cancel the non-existent service request and displays an error message."
